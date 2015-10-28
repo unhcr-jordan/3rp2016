@@ -8,7 +8,7 @@
 <meta property="og:image" content="http://data.unhcr.org/jordan/3rp/thumbnail.jpg">
 <meta property="og:site_name" content="2016 Refugee Response in Jordan">
 <meta property="og:description" content="2016 3RP Jordan ">
-    <title>2016 3RP Jordan</title>
+    <title>2016 3RP Jordan </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.css">
@@ -417,22 +417,7 @@
                     .group(rcodeByTotal)
                     .colors(['#AAAAAA', "rgb(49,163,84)"]) //'#CB181D'
                     .colorDomain([0, 2])
-                    .colorAccessor(function (d) {
-                        if(d>0){
-                            return 1;
-                        } else {
-                            return 0;
-                        }
-                    })
-                    
-                    .on("filtered", getFiltersValues)
-                    .colorAccessor(function (d) {
-                        if(d>0){
-                            return 1;
-                        } else {
-                            return 0;
-                        }
-                    })
+ 
                     .overlayGeoJson(governJSON.features, "Governorates", function (d) {
                         return d.properties.adm1_code;
                     })
