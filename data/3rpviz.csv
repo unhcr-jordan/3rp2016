@@ -286,81 +286,81 @@
 2115,Refugee,MECI,As Salt City,EDU[REF3.3]Alternative Education,[REF3.3.3]Life Skills,EDUCATION,direct,41667,1702,Balqa
 2133,Refugee,DRC,At Tafilah City,BN[REF2.1]Life Saving Basic Needs,[REF2.1.5]Winterization needs out of Camp,BASIC NEEDS,direct,68018,1706,TAFILAH
 2149,Refugee,IR,At Tafilah City,FOOD/LIV[1.1]Improve Food Access,[REF 1.1.1]Food Assistance,FOOD/LIVELIHOOD,direct,9404.8,1706,TAFILAH
-2155,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.1]New Arrival kits in Camps,BASIC NEEDS,indirect,75457,1712,Zarqa
-2160,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,678875,1712,Zarqa
-2166,Refugee,WVI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.2]KG facilitators recruited,EDUCATION,indirect,51600,1712,Zarqa
-2169,Refugee,UNHCR,Azraq Camp,HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.1]Community Health Teams,HEALTH,indirect,116667,1712,Zarqa
-2175,Refugee,NRC,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,3.00E+05,1712,Zarqa
-2179,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,115390,1712,Zarqa
-2181,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,301829,1712,Zarqa
-2189,Refugee,WVI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.4]Parent outreach,EDUCATION,direct,4000,1712,Zarqa
-2194,Refugee,IMC,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.4]Emergency Obstetric Care,HEALTH,direct,1200000,1712,Zarqa
-2201,Refugee,UNHCR,Azraq Camp,PROT[REF1.1]Refugee Rights Respected,[REF1.1.3] Civil Status Documentation,PROTECTION,indirect,43317,1712,Zarqa
-2203,Refugee,CARE,Azraq Camp,PROT[REF1.2]MHPSS / Disabilities,"[REF1.2.1]Information, referral and outreach",PROTECTION,direct,250000,1712,Zarqa
-2205,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,indirect,143594,1712,Zarqa
-2211,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,1032007,1712,Zarqa
-2216,Refugee,IMC,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,direct,440247,1712,Zarqa
-2222,Refugee,NRC,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.2]Community Trained,EDUCATION,direct,15000,1712,Zarqa
-2224,Refugee,UNICEF,Azraq Camp,WASH [REF3.1]Hygiene in Camps,[REF3.1.2]Schools etc Hygiene promotion,WASH ,indirect,477286.4,1712,Zarqa
-2225,Refugee,UNHCR,Azraq Camp,SHLT[REF1.2]Improve Infrastr. in camps,[REF1.2.1]Infrastr. Upgrade./Construction,SHELTER,direct,1741754,1712,Zarqa
-2227,Refugee,UNICEF,Azraq Camp,WASH [REF2.1]Sanitation in Camps,[REF2.1.2]Sewer Networks,WASH ,indirect,418707.6,1712,Zarqa
-2236,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,indirect,728045,1712,Zarqa
-2238,Refugee,UNHCR,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,indirect,1593533,1712,Zarqa
-2242,Refugee,ACTED,Azraq Camp,FOOD/LIV[1.2]Promote Safe/Nutr/Diverse Food,[REF1.2.3]Micro-Gardening,FOOD/LIVELIHOOD,direct,473278,1712,Zarqa
-2251,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.1]New Arrival kits in Camps,BASIC NEEDS,indirect,1506579,1712,Zarqa
-2254,Refugee,WVI,Azraq Camp,FOOD/LIV[1.1]Improve Food Access,[REF1.1.2]School Feeding,FOOD/LIVELIHOOD,direct,2.00E+05,1712,Zarqa
-2255,Refugee,NRC,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,3.00E+05,1712,Zarqa
-2258,Refugee,WVI,Azraq Camp,FOOD/LIV[1.1]Improve Food Access,[REF1.1.2]School Feeding,FOOD/LIVELIHOOD,direct,291681.54,1712,Zarqa
-2261,Refugee,WFP,Azraq Camp,FOOD/LIV[1.1]Improve Food Access,[REF1.1.2]School Feeding,FOOD/LIVELIHOOD,indirect,17500,1712,Zarqa
-2263,Refugee,UNHCR,Azraq Camp,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.1]Comm. Disease Mngt / EPI services,HEALTH,indirect,1797855,1712,Zarqa
-2271,Refugee,SCI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.1]Access to KG centres,EDUCATION,direct,450000,1712,Zarqa
-2273,Refugee,UNOPS,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,direct,1.00E+05,1712,Zarqa
-2275,Refugee,WVI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.1]Access to KG centres,EDUCATION,direct,5000,1712,Zarqa
-2280,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,indirect,316186,1712,Zarqa
-2293,Refugee,UNFPA,Azraq Camp,PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,6.00E+05,1712,Zarqa
-2302,Refugee,NRC,Azraq Camp,EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,360000,1712,Zarqa
-2304,Refugee,UNHCR,Azraq Camp,HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.4]Mat/Child Health mngt,HEALTH,indirect,61867,1712,Zarqa
-2307,Refugee,UNICEF,Azraq Camp,WASH [REF1.5]Water Conservation,[REF1.5.2]Reuse of wastewater ,WASH ,,48333.316,1712,Zarqa
-2314,Refugee,UNHCR,Azraq Camp,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.2]Community self-mngmt,PROTECTION,indirect,1785199,1712,Zarqa
-2316,Refugee,NRC,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,3.00E+05,1712,Zarqa
-2317,Refugee,UNICEF,Azraq Camp,WASH [REF1.1]Access to Water in Camps,[REF1.1.1]Water Trucking,WASH ,indirect,1363851,1712,Zarqa
-2319,Refugee,UNICEF,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,559000,1712,Zarqa
-2322,Refugee,WVI,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.2]Community Trained,EDUCATION,direct,4285,1712,Zarqa
-2324,Refugee,UNWOMEN,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,218800,1712,Zarqa
-2334,Refugee,UNHCR,Azraq Camp,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.2]Improved NCD Mngt,HEALTH,direct,68928,1712,Zarqa
-2338,Refugee,UNICEF,Azraq Camp,WASH [REF2.1]Sanitation in Camps,[REF2.1.1]Water collection/disposal,WASH ,indirect,1012342,1712,Zarqa
-2344,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,40066,1712,Zarqa
-2349,Refugee,CARE,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,1.00E+05,1712,Zarqa
-2353,Refugee,WVI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.3]KG centres built,EDUCATION,direct,0,1712,Zarqa
-2355,Refugee,UNICEF,Azraq Camp,WASH [REF2.1]Sanitation in Camps,[REF2.1.3]Schools etc access sanitation,WASH ,indirect,22331.1,1712,Zarqa
-2370,Refugee,SC Jordan,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,440575,1712,Zarqa
-2371,Refugee,WVI,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,49428,1712,Zarqa
-2377,Refugee,UNICEF,Azraq Camp,WASH [REF3.1]Hygiene in Camps,[REF3.1.3]Vector control,WASH ,indirect,7338.4,1712,Zarqa
-2384,Refugee,UNICEF,Azraq Camp,WASH [REF1.1]Access to Water in Camps,[REF1.1.3]Camp Services have access to water,WASH ,indirect,36532,1712,Zarqa
-2386,Refugee,RI,Azraq Camp,EDU[REF3.3]Alternative Education,[REF3.3.4]Learning Opportunities in Camps,EDUCATION,direct,40000,1712,Zarqa
-2389,Refugee,UNFPA,Azraq Camp,PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,12000,1712,Zarqa
-2396,Refugee,UNHCR,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.4]Emergency Obstetric Care,HEALTH,indirect,286885,1712,Zarqa
-2398,Refugee,WVI,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,6000,1712,Zarqa
-2400,Refugee,WVI,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,16361.1,1712,Zarqa
-2402,Refugee,UNICEF,Azraq Camp,WASH [REF1.1]Access to Water in Camps,[REF1.1.2]Sustainable Infrastructure,WASH ,indirect,1906956,1712,Zarqa
-2411,Refugee,WVI,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,28631.48,1712,Zarqa
-2414,Refugee,UNICEF,Azraq Camp,WASH [REF3.1]Hygiene in Camps,[REF3.1.1]Hygiene promotion,WASH ,indirect,146769.8,1712,Zarqa
-2419,Refugee,UNHCR,Azraq Camp,PROT[REF1.1]Refugee Rights Respected,[REF1.1.1]Border Reception/Transport/Comm. Po,PROTECTION,direct,1.00E+06,1712,Zarqa
-2420,Refugee,NRC,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,20000,1712,Zarqa
-2421,Refugee,WVI,Azraq Camp,EDU[REF3.3]Alternative Education,[REF3.3.4]Learning Opportunities in Camps,EDUCATION,direct,44881.57,1712,Zarqa
-2423,Refugee,CARE,Azraq Camp,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.4]Safe Spaces/Comm. Centres,PROTECTION,direct,250000,1712,Zarqa
-2436,Refugee,NRC,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.1]New Arrival kits in Camps,BASIC NEEDS,direct,450000,1712,Zarqa
-2446,Refugee,UNHCR,Azraq Camp,ENG[REF1.3]Electricity in Camps,[REF1.3.1]Azraq,ENERGY,direct,12500000,1712,Zarqa
-2451,Refugee,SCI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.4]Parent outreach,EDUCATION,direct,44335,1712,Zarqa
-2454,Refugee,UNHCR,Azraq Camp,SHLT[REF1.1]Improve living conditions in camps,[REF1.1.1]Adequate shelters in camps,SHELTER,direct,5638352,1712,Zarqa
-2457,Refugee,UNHCR,Azraq Camp,PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,direct,351826,1712,Zarqa
-2468,Refugee,UNICEF,Azraq Camp,WASH [REF2.1]Sanitation in Camps,[REF2.1.4]SWM,WASH ,indirect,669932.2,1712,Zarqa
-2478,Refugee,UNHCR,Azraq Camp,PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,indirect,475440,1712,Zarqa
-2480,Refugee,NRC,Azraq Camp,EDU[REF3.4]Teritiary Education,[REF3.4.4]Vocational/Skills Training,EDUCATION,direct,5.00E+05,1712,Zarqa
-2485,Refugee,CARE,Azraq Camp,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.2]Community self-mngmt,PROTECTION,direct,50000,1712,Zarqa
-2488,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,indirect,316186,1712,Zarqa
-2489,Refugee,UNHCR,Azraq Camp,JUS[REF1.1]Refugee Legal Assistance,[REF1.1.1]Access to Legal Assistance,JUSTICE,indirect,75000,1712,Zarqa
-2493,Refugee,FCA,Azraq Camp Village 3,EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,382000,1712,Zarqa
+2155,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.1]New Arrival kits in Camps,BASIC NEEDS,indirect,75457,2,ALL CAMPS IN JORDAN
+2160,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,678875,2,ALL CAMPS IN JORDAN
+2166,Refugee,WVI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.2]KG facilitators recruited,EDUCATION,indirect,51600,2,ALL CAMPS IN JORDAN
+2169,Refugee,UNHCR,Azraq Camp,HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.1]Community Health Teams,HEALTH,indirect,116667,2,ALL CAMPS IN JORDAN
+2175,Refugee,NRC,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,3.00E+05,2,ALL CAMPS IN JORDAN
+2179,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,115390,2,ALL CAMPS IN JORDAN
+2181,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,301829,2,ALL CAMPS IN JORDAN
+2189,Refugee,WVI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.4]Parent outreach,EDUCATION,direct,4000,2,ALL CAMPS IN JORDAN
+2194,Refugee,IMC,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.4]Emergency Obstetric Care,HEALTH,direct,1200000,2,ALL CAMPS IN JORDAN
+2201,Refugee,UNHCR,Azraq Camp,PROT[REF1.1]Refugee Rights Respected,[REF1.1.3] Civil Status Documentation,PROTECTION,indirect,43317,2,ALL CAMPS IN JORDAN
+2203,Refugee,CARE,Azraq Camp,PROT[REF1.2]MHPSS / Disabilities,"[REF1.2.1]Information, referral and outreach",PROTECTION,direct,250000,2,ALL CAMPS IN JORDAN
+2205,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,indirect,143594,2,ALL CAMPS IN JORDAN
+2211,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,1032007,2,ALL CAMPS IN JORDAN
+2216,Refugee,IMC,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,direct,440247,2,ALL CAMPS IN JORDAN
+2222,Refugee,NRC,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.2]Community Trained,EDUCATION,direct,15000,2,ALL CAMPS IN JORDAN
+2224,Refugee,UNICEF,Azraq Camp,WASH [REF3.1]Hygiene in Camps,[REF3.1.2]Schools etc Hygiene promotion,WASH ,indirect,477286.4,2,ALL CAMPS IN JORDAN
+2225,Refugee,UNHCR,Azraq Camp,SHLT[REF1.2]Improve Infrastr. in camps,[REF1.2.1]Infrastr. Upgrade./Construction,SHELTER,direct,1741754,2,ALL CAMPS IN JORDAN
+2227,Refugee,UNICEF,Azraq Camp,WASH [REF2.1]Sanitation in Camps,[REF2.1.2]Sewer Networks,WASH ,indirect,418707.6,2,ALL CAMPS IN JORDAN
+2236,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,indirect,728045,2,ALL CAMPS IN JORDAN
+2238,Refugee,UNHCR,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,indirect,1593533,2,ALL CAMPS IN JORDAN
+2242,Refugee,ACTED,Azraq Camp,FOOD/LIV[1.2]Promote Safe/Nutr/Diverse Food,[REF1.2.3]Micro-Gardening,FOOD/LIVELIHOOD,direct,473278,2,ALL CAMPS IN JORDAN
+2251,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.1]New Arrival kits in Camps,BASIC NEEDS,indirect,1506579,2,ALL CAMPS IN JORDAN
+2254,Refugee,WVI,Azraq Camp,FOOD/LIV[1.1]Improve Food Access,[REF1.1.2]School Feeding,FOOD/LIVELIHOOD,direct,2.00E+05,2,ALL CAMPS IN JORDAN
+2255,Refugee,NRC,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,3.00E+05,2,ALL CAMPS IN JORDAN
+2258,Refugee,WVI,Azraq Camp,FOOD/LIV[1.1]Improve Food Access,[REF1.1.2]School Feeding,FOOD/LIVELIHOOD,direct,291681.54,2,ALL CAMPS IN JORDAN
+2261,Refugee,WFP,Azraq Camp,FOOD/LIV[1.1]Improve Food Access,[REF1.1.2]School Feeding,FOOD/LIVELIHOOD,indirect,17500,2,ALL CAMPS IN JORDAN
+2263,Refugee,UNHCR,Azraq Camp,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.1]Comm. Disease Mngt / EPI services,HEALTH,indirect,1797855,2,ALL CAMPS IN JORDAN
+2271,Refugee,SCI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.1]Access to KG centres,EDUCATION,direct,450000,2,ALL CAMPS IN JORDAN
+2273,Refugee,UNOPS,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,direct,1.00E+05,2,ALL CAMPS IN JORDAN
+2275,Refugee,WVI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.1]Access to KG centres,EDUCATION,direct,5000,2,ALL CAMPS IN JORDAN
+2280,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,indirect,316186,2,ALL CAMPS IN JORDAN
+2293,Refugee,UNFPA,Azraq Camp,PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,6.00E+05,2,ALL CAMPS IN JORDAN
+2302,Refugee,NRC,Azraq Camp,EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,360000,2,ALL CAMPS IN JORDAN
+2304,Refugee,UNHCR,Azraq Camp,HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.4]Mat/Child Health mngt,HEALTH,indirect,61867,2,ALL CAMPS IN JORDAN
+2307,Refugee,UNICEF,Azraq Camp,WASH [REF1.5]Water Conservation,[REF1.5.2]Reuse of wastewater ,WASH ,,48333.316,2,ALL CAMPS IN JORDAN
+2314,Refugee,UNHCR,Azraq Camp,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.2]Community self-mngmt,PROTECTION,indirect,1785199,2,ALL CAMPS IN JORDAN
+2316,Refugee,NRC,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,3.00E+05,2,ALL CAMPS IN JORDAN
+2317,Refugee,UNICEF,Azraq Camp,WASH [REF1.1]Access to Water in Camps,[REF1.1.1]Water Trucking,WASH ,indirect,1363851,2,ALL CAMPS IN JORDAN
+2319,Refugee,UNICEF,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,559000,2,ALL CAMPS IN JORDAN
+2322,Refugee,WVI,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.2]Community Trained,EDUCATION,direct,4285,2,ALL CAMPS IN JORDAN
+2324,Refugee,UNWOMEN,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,218800,2,ALL CAMPS IN JORDAN
+2334,Refugee,UNHCR,Azraq Camp,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.2]Improved NCD Mngt,HEALTH,direct,68928,2,ALL CAMPS IN JORDAN
+2338,Refugee,UNICEF,Azraq Camp,WASH [REF2.1]Sanitation in Camps,[REF2.1.1]Water collection/disposal,WASH ,indirect,1012342,2,ALL CAMPS IN JORDAN
+2344,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,40066,2,ALL CAMPS IN JORDAN
+2349,Refugee,CARE,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,1.00E+05,2,ALL CAMPS IN JORDAN
+2353,Refugee,WVI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.3]KG centres built,EDUCATION,direct,0,2,ALL CAMPS IN JORDAN
+2355,Refugee,UNICEF,Azraq Camp,WASH [REF2.1]Sanitation in Camps,[REF2.1.3]Schools etc access sanitation,WASH ,indirect,22331.1,2,ALL CAMPS IN JORDAN
+2370,Refugee,SC Jordan,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,440575,2,ALL CAMPS IN JORDAN
+2371,Refugee,WVI,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,49428,2,ALL CAMPS IN JORDAN
+2377,Refugee,UNICEF,Azraq Camp,WASH [REF3.1]Hygiene in Camps,[REF3.1.3]Vector control,WASH ,indirect,7338.4,2,ALL CAMPS IN JORDAN
+2384,Refugee,UNICEF,Azraq Camp,WASH [REF1.1]Access to Water in Camps,[REF1.1.3]Camp Services have access to water,WASH ,indirect,36532,2,ALL CAMPS IN JORDAN
+2386,Refugee,RI,Azraq Camp,EDU[REF3.3]Alternative Education,[REF3.3.4]Learning Opportunities in Camps,EDUCATION,direct,40000,2,ALL CAMPS IN JORDAN
+2389,Refugee,UNFPA,Azraq Camp,PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,12000,2,ALL CAMPS IN JORDAN
+2396,Refugee,UNHCR,Azraq Camp,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.4]Emergency Obstetric Care,HEALTH,indirect,286885,2,ALL CAMPS IN JORDAN
+2398,Refugee,WVI,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,6000,2,ALL CAMPS IN JORDAN
+2400,Refugee,WVI,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,16361.1,2,ALL CAMPS IN JORDAN
+2402,Refugee,UNICEF,Azraq Camp,WASH [REF1.1]Access to Water in Camps,[REF1.1.2]Sustainable Infrastructure,WASH ,indirect,1906956,2,ALL CAMPS IN JORDAN
+2411,Refugee,WVI,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,28631.48,2,ALL CAMPS IN JORDAN
+2414,Refugee,UNICEF,Azraq Camp,WASH [REF3.1]Hygiene in Camps,[REF3.1.1]Hygiene promotion,WASH ,indirect,146769.8,2,ALL CAMPS IN JORDAN
+2419,Refugee,UNHCR,Azraq Camp,PROT[REF1.1]Refugee Rights Respected,[REF1.1.1]Border Reception/Transport/Comm. Po,PROTECTION,direct,1.00E+06,2,ALL CAMPS IN JORDAN
+2420,Refugee,NRC,Azraq Camp,EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,20000,2,ALL CAMPS IN JORDAN
+2421,Refugee,WVI,Azraq Camp,EDU[REF3.3]Alternative Education,[REF3.3.4]Learning Opportunities in Camps,EDUCATION,direct,44881.57,2,ALL CAMPS IN JORDAN
+2423,Refugee,CARE,Azraq Camp,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.4]Safe Spaces/Comm. Centres,PROTECTION,direct,250000,2,ALL CAMPS IN JORDAN
+2436,Refugee,NRC,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.1]New Arrival kits in Camps,BASIC NEEDS,direct,450000,2,ALL CAMPS IN JORDAN
+2446,Refugee,UNHCR,Azraq Camp,ENG[REF1.3]Electricity in Camps,[REF1.3.1]Azraq,ENERGY,direct,12500000,2,ALL CAMPS IN JORDAN
+2451,Refugee,SCI,Azraq Camp,EDU[REF3.1]EarlyChildhood,[REF3.1.4]Parent outreach,EDUCATION,direct,44335,2,ALL CAMPS IN JORDAN
+2454,Refugee,UNHCR,Azraq Camp,SHLT[REF1.1]Improve living conditions in camps,[REF1.1.1]Adequate shelters in camps,SHELTER,direct,5638352,2,ALL CAMPS IN JORDAN
+2457,Refugee,UNHCR,Azraq Camp,PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,direct,351826,2,ALL CAMPS IN JORDAN
+2468,Refugee,UNICEF,Azraq Camp,WASH [REF2.1]Sanitation in Camps,[REF2.1.4]SWM,WASH ,indirect,669932.2,2,ALL CAMPS IN JORDAN
+2478,Refugee,UNHCR,Azraq Camp,PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,indirect,475440,2,ALL CAMPS IN JORDAN
+2480,Refugee,NRC,Azraq Camp,EDU[REF3.4]Teritiary Education,[REF3.4.4]Vocational/Skills Training,EDUCATION,direct,5.00E+05,2,ALL CAMPS IN JORDAN
+2485,Refugee,CARE,Azraq Camp,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.2]Community self-mngmt,PROTECTION,direct,50000,2,ALL CAMPS IN JORDAN
+2488,Refugee,UNHCR,Azraq Camp,BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,indirect,316186,2,ALL CAMPS IN JORDAN
+2489,Refugee,UNHCR,Azraq Camp,JUS[REF1.1]Refugee Legal Assistance,[REF1.1.1]Access to Legal Assistance,JUSTICE,indirect,75000,2,ALL CAMPS IN JORDAN
+2493,Refugee,FCA,Azraq Camp Village 3,EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,382000,2,ALL CAMPS IN JORDAN
 2516,Refugee,CARE,Azraq City,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.5]Reduce Social Tensions thr. Livelih,PROTECTION,direct,375000,1712,Zarqa
 2517,Refugee,CARE,Azraq City,BN[REF2.1]Life Saving Basic Needs,[REF2.1.3]Support towards basic needs,BASIC NEEDS,direct,500,1712,Zarqa
 2542,Refugee,CARE,Azraq City,BN[REF2.1]Life Saving Basic Needs,[REF2.1.5]Winterization needs out of Camp,BASIC NEEDS,direct,2.00E+05,1712,Zarqa
@@ -523,12 +523,12 @@
 3766,Refugee,UNICEF,Cyber City Refugee Center,WASH [REF2.1]Sanitation in Camps,[REF2.1.4]SWM,WASH ,indirect,167483.05,1707,Irbid
 3770,Refugee,UNICEF,Cyber City Refugee Center,WASH [REF3.1]Hygiene in Camps,[REF3.1.1]Hygiene promotion,WASH ,indirect,36692.45,1707,Irbid
 3774,Refugee,UNICEF,Cyber City Refugee Center,WASH [REF2.1]Sanitation in Camps,[REF2.1.1]Water collection/disposal,WASH ,indirect,253085.5,1707,Irbid
-3780,Refugee,UNFPA,Emirati Jordanian Camp (EJC),PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,12000,1712,Zarqa
-3781,Refugee,UNHCR,Emirati Jordanian Camp (EJC),PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,direct,15646,1712,Zarqa
-3786,Refugee,WarChild UK,Emirati Jordanian Camp (EJC),EDU[REF3.1]EarlyChildhood,[REF3.1.3]KG centres built,EDUCATION,direct,0,1712,Zarqa
-3787,Refugee,WarChild UK,Emirati Jordanian Camp (EJC),EDU[REF3.1]EarlyChildhood,[REF3.1.4]Parent outreach,EDUCATION,direct,20000,1712,Zarqa
-3796,Refugee,WarChild UK,Emirati Jordanian Camp (EJC),EDU[REF3.1]EarlyChildhood,[REF3.1.2]KG facilitators recruited,EDUCATION,direct,30000,1712,Zarqa
-3800,Refugee,WarChild UK,Emirati Jordanian Camp (EJC),EDU[REF3.1]EarlyChildhood,[REF3.1.1]Access to KG centres,EDUCATION,direct,3.00E+05,1712,Zarqa
+3780,Refugee,UNFPA,Emirati Jordanian Camp (EJC),PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,12000,2,ALL CAMPS IN JORDAN
+3781,Refugee,UNHCR,Emirati Jordanian Camp (EJC),PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,direct,15646,2,ALL CAMPS IN JORDAN
+3786,Refugee,WarChild UK,Emirati Jordanian Camp (EJC),EDU[REF3.1]EarlyChildhood,[REF3.1.3]KG centres built,EDUCATION,direct,0,2,ALL CAMPS IN JORDAN
+3787,Refugee,WarChild UK,Emirati Jordanian Camp (EJC),EDU[REF3.1]EarlyChildhood,[REF3.1.4]Parent outreach,EDUCATION,direct,20000,2,ALL CAMPS IN JORDAN
+3796,Refugee,WarChild UK,Emirati Jordanian Camp (EJC),EDU[REF3.1]EarlyChildhood,[REF3.1.2]KG facilitators recruited,EDUCATION,direct,30000,2,ALL CAMPS IN JORDAN
+3800,Refugee,WarChild UK,Emirati Jordanian Camp (EJC),EDU[REF3.1]EarlyChildhood,[REF3.1.1]Access to KG centres,EDUCATION,direct,3.00E+05,2,ALL CAMPS IN JORDAN
 3812,Refugee,UPP,Irbid City,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.4]Safe Spaces/Comm. Centres,PROTECTION,direct,41906,1707,Irbid
 3816,Refugee,UPP,Irbid City,PROT[REF1.2]MHPSS / Disabilities,"[REF1.2.1]Information, referral and outreach",PROTECTION,direct,97781,1707,Irbid
 3833,Refugee,IR,Irbid City,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,indirect,130000,1707,Irbid
@@ -1152,80 +1152,80 @@
 8798,Refugee,UNICEF,Tafileh Governorate,BN[REF2.1]Life Saving Basic Needs,[REF2.1.5]Winterization needs out of Camp,BASIC NEEDS,direct,17400,1706,TAFILAH
 8800,Refugee,WFP,Tafileh Governorate,FOOD/LIV[1.1]Improve Food Access,[REF 1.1.1]Food Assistance,FOOD/LIVELIHOOD,,491342,1706,TAFILAH
 8818,Refugee,UNHCR,Tafileh Governorate,BN[REF2.1]Life Saving Basic Needs,[REF2.1.3]Support towards basic needs,BASIC NEEDS,direct,255832,1706,TAFILAH
-8835,Refugee,WarChild UK,Zaatari Camp (all district),EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,23000,1711,MAFRAQ
-8837,Refugee,NRC,Zaatari Camp (all district),EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,20000,1711,MAFRAQ
-8838,Refugee,UNFPA,Zaatari Camp (all district),PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,33000,1711,MAFRAQ
-8841,Refugee,FPSC,Zaatari Camp (all district),PROT[REF1.2]MHPSS / Disabilities,"[REF1.2.1]Information, referral and outreach",PROTECTION,direct,130000,1711,MAFRAQ
-8842,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.1]Essential Primary Health Care,[REF1.1.2]Improved NCD Mngt,HEALTH,direct,160832,1711,MAFRAQ
-8843,Refugee,SCI,Zaatari Camp (all district),EDU[REF3.1]EarlyChildhood,[REF3.1.4]Parent outreach,EDUCATION,direct,44335,1711,MAFRAQ
-8844,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,indirect,3187067,1711,MAFRAQ
-8846,Refugee,UNICEF,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,1122000,1711,MAFRAQ
-8847,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.2]Sewer Networks,WASH ,indirect,3047524,1711,MAFRAQ
-8848,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF1.1]Access to Water in Camps,[REF1.1.3]Camp Services have access to water,WASH ,indirect,207013,1711,MAFRAQ
-8857,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.3]Schools etc access sanitation,WASH ,indirect,104211.8,1711,MAFRAQ
-8858,Refugee,KnK,Zaatari Camp (all district),EDU[REF3.2]Acces to Formal Education,[REF3.2.2]Mobilize Teachers,EDUCATION,direct,6249,1711,MAFRAQ
-8862,Refugee,ACTED,Zaatari Camp (all district),FOOD/LIV[1.2]Promote Safe/Nutr/Diverse Food,[REF1.2.3]Micro-Gardening,FOOD/LIVELIHOOD,direct,473277,1711,MAFRAQ
-8867,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,679115,1711,MAFRAQ
-8874,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF1.1]Access to Water in Camps,[REF1.1.2]Sustainable Infrastructure,WASH ,indirect,10806082,1711,MAFRAQ
-8875,Refugee,UNHCR,Zaatari Camp (all district),SHLT[REF1.2]Improve Infrastr. in camps,[REF1.2.1]Infrastr. Upgrade./Construction,SHELTER,direct,1206500,1711,MAFRAQ
-8887,Refugee,RI,Zaatari Camp (all district),EDU[REF3.3]Alternative Education,[REF3.3.4]Learning Opportunities in Camps,EDUCATION,direct,160000,1711,MAFRAQ
-8888,Refugee,WVI,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.4]SWM,WASH ,direct,245000,1711,MAFRAQ
-8889,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF1.5]Water Conservation,[REF1.5.2]Reuse of wastewater ,WASH ,,48333.316,1711,MAFRAQ
-8893,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,1584041,1711,MAFRAQ
-8898,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF3.1]Hygiene in Camps,[REF3.1.1]Hygiene promotion,WASH ,indirect,513694.3,1711,MAFRAQ
-8899,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.3]Home nursing/Rehab. for injured,HEALTH,indirect,2.00E+05,1711,MAFRAQ
-8906,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.1]Community Health Teams,HEALTH,indirect,233333,1711,MAFRAQ
-8907,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,93487,1711,MAFRAQ
-8909,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,269242,1711,MAFRAQ
-8911,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.1]Essential Primary Health Care,[REF1.1.1]Comm. Disease Mngt / EPI services,HEALTH,indirect,3595710,1711,MAFRAQ
-8918,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF1.1]Access to Water in Camps,[REF1.1.1]Water Trucking,WASH ,indirect,4773478,1711,MAFRAQ
-8923,Refugee,UNWOMEN,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,4.00E+05,1711,MAFRAQ
-8925,Refugee,UNHCR,Zaatari Camp (all district),JUS[REF1.1]Refugee Legal Assistance,[REF1.1.1]Access to Legal Assistance,JUSTICE,indirect,75000,1711,MAFRAQ
-8936,Refugee,WFP,Zaatari Camp (all district),FOOD/LIV[1.1]Improve Food Access,[REF1.1.2]School Feeding,FOOD/LIVELIHOOD,indirect,332500,1711,MAFRAQ
-8938,Refugee,NRC,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,5.00E+05,1711,MAFRAQ
-8940,Refugee,NRC,Zaatari Camp (all district),EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,540000,1711,MAFRAQ
-8943,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,direct,278638,1711,MAFRAQ
-8946,Refugee,WVI,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.1]Water collection/disposal,WASH ,direct,245000,1711,MAFRAQ
-8954,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,4268511,1711,MAFRAQ
-8962,Refugee,UNHCR,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.4]SWM,WASH ,direct,2738880,1711,MAFRAQ
-8968,Refugee,ILO,Zaatari Camp (all district),PROT[REF1.2]MHPSS / Disabilities,[REF1.2.5]Reduce Social Tensions thr. Livelih,PROTECTION,direct,8.00E+05,1711,MAFRAQ
-8970,Refugee,FPSC,Zaatari Camp (all district),PROT[REF1.2]MHPSS / Disabilities,[REF1.2.3]Special Needs/Disabled/Elderly,PROTECTION,direct,1.00E+05,1711,MAFRAQ
-8979,Refugee,NRC,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,7.00E+05,1711,MAFRAQ
-8989,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.2]MHPSS / Disabilities,[REF1.2.2]Community self-mngmt,PROTECTION,indirect,2500000,1711,MAFRAQ
-8991,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.1]Refugee Rights Respected,[REF1.1.3] Civil Status Documentation,PROTECTION,indirect,50000,1711,MAFRAQ
-8995,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.4]Emergency Obstetric Care,HEALTH,indirect,572623,1711,MAFRAQ
-8998,Refugee,JHAS,Zaatari Camp (all district),HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.3]Convalescent care for War wounded,HEALTH,direct,250000,1711,MAFRAQ
-9011,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,indirect,533176,1711,MAFRAQ
-9012,Refugee,NRC,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,1200000,1711,MAFRAQ
-9020,Refugee,NRC,Zaatari Camp (all district),EDU[REF3.4]Teritiary Education,[REF3.4.4]Vocational/Skills Training,EDUCATION,direct,5.00E+05,1711,MAFRAQ
-9034,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,711520,1711,MAFRAQ
-9040,Refugee,SCI,Zaatari Camp (all district),EDU[REF3.1]EarlyChildhood,[REF3.1.1]Access to KG centres,EDUCATION,direct,1700000,1711,MAFRAQ
-9048,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.1]Refugee Rights Respected,[REF1.1.1]Border Reception/Transport/Comm. Po,PROTECTION,direct,2005144,1711,MAFRAQ
-9052,Refugee,UNHCR,Zaatari Camp (all district),SHLT[REF1.1]Improve living conditions in camps,[REF1.1.1]Adequate shelters in camps,SHELTER,direct,2286000,1711,MAFRAQ
-9065,Refugee,WarChild UK,Zaatari Camp (all district),EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,320000,1711,MAFRAQ
-9067,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF3.1]Hygiene in Camps,[REF3.1.3]Vector control,WASH ,indirect,25684.4,1711,MAFRAQ
-9073,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.4]Mat/Child Health mngt,HEALTH,indirect,123733,1711,MAFRAQ
-9075,Refugee,SC Jordan,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,164997,1711,MAFRAQ
-9083,Refugee,OXFAM,Zaatari Camp (all district),FOOD/LIV[1.2]Promote Safe/Nutr/Diverse Food,[REF1.2.3]Micro-Gardening,FOOD/LIVELIHOOD,direct,341555,1711,MAFRAQ
-9092,Refugee,UNHCR,Zaatari Camp (all district),ENG[REF1.3]Electricity in Camps,[REF1.3.2]Zaatari,ENERGY,direct,8400000,1711,MAFRAQ
-9093,Refugee,NRC,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.1]New Arrival kits in Camps,BASIC NEEDS,direct,50000,1711,MAFRAQ
-9097,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,711520,1711,MAFRAQ
-9106,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF3.1]Hygiene in Camps,[REF3.1.2]Schools etc Hygiene promotion,WASH ,indirect,1578060.43,1711,MAFRAQ
-9114,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.1]Water collection/disposal,WASH ,indirect,4943197,1711,MAFRAQ
-9118,Refugee,NRC,Zaatari Camp (all district),EDU[REF2.1]Train Education Providers,[REF2.1.2]Community Trained,EDUCATION,direct,15000,1711,MAFRAQ
-9123,Refugee,FPSC,Zaatari District 10,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.4]Safe Spaces/Comm. Centres,PROTECTION,direct,5.00E+05,1711,MAFRAQ
-9124,Refugee,ACTED,Zaatari District 10,WASH [REF2.1]Sanitation in Camps,[REF2.1.2]Sewer Networks,WASH ,direct,320000,1711,MAFRAQ
-9131,Refugee,KnK,Zaatari District 4,EDU[REF3.2]Acces to Formal Education,[REF3.2.5]Remedial Education,EDUCATION,direct,355249,1711,MAFRAQ
-9148,Refugee,UNFPA,Zaatari District 4,PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,320000,1711,MAFRAQ
-9155,Refugee,FCA,Zaatari District 4,EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,95000,1711,MAFRAQ
-9167,Refugee,MDM,Zaatari District 5,HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.2]Community Hlth Network,HEALTH,direct,2862,1711,MAFRAQ
-9173,Refugee,MDM,Zaatari District 5,HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.1]Community Health Teams,HEALTH,direct,31090,1711,MAFRAQ
-9175,Refugee,MDM,Zaatari District 5,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,direct,17277,1711,MAFRAQ
-9179,Refugee,MDM,Zaatari District 5,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.6]Mental Health Services (primary),HEALTH,direct,46900,1711,MAFRAQ
-9191,Refugee,MDM,Zaatari District 5,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.2]Improved NCD Mngt,HEALTH,direct,363480,1711,MAFRAQ
-9192,Refugee,MDM,Zaatari District 5,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.1]Comm. Disease Mngt / EPI services,HEALTH,direct,104889,1711,MAFRAQ
-9194,Refugee,MDM,Zaatari District 5,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.3]Reproductive Health Services,HEALTH,direct,100690,1711,MAFRAQ
-9198,Refugee,FCA,Zaatari District 8,EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,95000,1711,MAFRAQ
+8835,Refugee,WarChild UK,Zaatari Camp (all district),EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,23000,2,ALL CAMPS IN JORDAN
+8837,Refugee,NRC,Zaatari Camp (all district),EDU[REF2.1]Train Education Providers,[REF2.1.1]Train Service Providers,EDUCATION,direct,20000,2,ALL CAMPS IN JORDAN
+8838,Refugee,UNFPA,Zaatari Camp (all district),PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,33000,2,ALL CAMPS IN JORDAN
+8841,Refugee,FPSC,Zaatari Camp (all district),PROT[REF1.2]MHPSS / Disabilities,"[REF1.2.1]Information, referral and outreach",PROTECTION,direct,130000,2,ALL CAMPS IN JORDAN
+8842,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.1]Essential Primary Health Care,[REF1.1.2]Improved NCD Mngt,HEALTH,direct,160832,2,ALL CAMPS IN JORDAN
+8843,Refugee,SCI,Zaatari Camp (all district),EDU[REF3.1]EarlyChildhood,[REF3.1.4]Parent outreach,EDUCATION,direct,44335,2,ALL CAMPS IN JORDAN
+8844,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,indirect,3187067,2,ALL CAMPS IN JORDAN
+8846,Refugee,UNICEF,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,1122000,2,ALL CAMPS IN JORDAN
+8847,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.2]Sewer Networks,WASH ,indirect,3047524,2,ALL CAMPS IN JORDAN
+8848,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF1.1]Access to Water in Camps,[REF1.1.3]Camp Services have access to water,WASH ,indirect,207013,2,ALL CAMPS IN JORDAN
+8857,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.3]Schools etc access sanitation,WASH ,indirect,104211.8,2,ALL CAMPS IN JORDAN
+8858,Refugee,KnK,Zaatari Camp (all district),EDU[REF3.2]Acces to Formal Education,[REF3.2.2]Mobilize Teachers,EDUCATION,direct,6249,2,ALL CAMPS IN JORDAN
+8862,Refugee,ACTED,Zaatari Camp (all district),FOOD/LIV[1.2]Promote Safe/Nutr/Diverse Food,[REF1.2.3]Micro-Gardening,FOOD/LIVELIHOOD,direct,473277,2,ALL CAMPS IN JORDAN
+8867,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,679115,2,ALL CAMPS IN JORDAN
+8874,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF1.1]Access to Water in Camps,[REF1.1.2]Sustainable Infrastructure,WASH ,indirect,10806082,2,ALL CAMPS IN JORDAN
+8875,Refugee,UNHCR,Zaatari Camp (all district),SHLT[REF1.2]Improve Infrastr. in camps,[REF1.2.1]Infrastr. Upgrade./Construction,SHELTER,direct,1206500,2,ALL CAMPS IN JORDAN
+8887,Refugee,RI,Zaatari Camp (all district),EDU[REF3.3]Alternative Education,[REF3.3.4]Learning Opportunities in Camps,EDUCATION,direct,160000,2,ALL CAMPS IN JORDAN
+8888,Refugee,WVI,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.4]SWM,WASH ,direct,245000,2,ALL CAMPS IN JORDAN
+8889,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF1.5]Water Conservation,[REF1.5.2]Reuse of wastewater ,WASH ,,48333.316,2,ALL CAMPS IN JORDAN
+8893,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,1584041,2,ALL CAMPS IN JORDAN
+8898,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF3.1]Hygiene in Camps,[REF3.1.1]Hygiene promotion,WASH ,indirect,513694.3,2,ALL CAMPS IN JORDAN
+8899,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.3]Home nursing/Rehab. for injured,HEALTH,indirect,2.00E+05,2,ALL CAMPS IN JORDAN
+8906,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.1]Community Health Teams,HEALTH,indirect,233333,2,ALL CAMPS IN JORDAN
+8907,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,93487,2,ALL CAMPS IN JORDAN
+8909,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,indirect,269242,2,ALL CAMPS IN JORDAN
+8911,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.1]Essential Primary Health Care,[REF1.1.1]Comm. Disease Mngt / EPI services,HEALTH,indirect,3595710,2,ALL CAMPS IN JORDAN
+8918,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF1.1]Access to Water in Camps,[REF1.1.1]Water Trucking,WASH ,indirect,4773478,2,ALL CAMPS IN JORDAN
+8923,Refugee,UNWOMEN,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,4.00E+05,2,ALL CAMPS IN JORDAN
+8925,Refugee,UNHCR,Zaatari Camp (all district),JUS[REF1.1]Refugee Legal Assistance,[REF1.1.1]Access to Legal Assistance,JUSTICE,indirect,75000,2,ALL CAMPS IN JORDAN
+8936,Refugee,WFP,Zaatari Camp (all district),FOOD/LIV[1.1]Improve Food Access,[REF1.1.2]School Feeding,FOOD/LIVELIHOOD,indirect,332500,2,ALL CAMPS IN JORDAN
+8938,Refugee,NRC,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.6]Incentive Based Volunteering Camps,BASIC NEEDS,direct,5.00E+05,2,ALL CAMPS IN JORDAN
+8940,Refugee,NRC,Zaatari Camp (all district),EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,540000,2,ALL CAMPS IN JORDAN
+8943,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,direct,278638,2,ALL CAMPS IN JORDAN
+8946,Refugee,WVI,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.1]Water collection/disposal,WASH ,direct,245000,2,ALL CAMPS IN JORDAN
+8954,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,4268511,2,ALL CAMPS IN JORDAN
+8962,Refugee,UNHCR,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.4]SWM,WASH ,direct,2738880,2,ALL CAMPS IN JORDAN
+8968,Refugee,ILO,Zaatari Camp (all district),PROT[REF1.2]MHPSS / Disabilities,[REF1.2.5]Reduce Social Tensions thr. Livelih,PROTECTION,direct,8.00E+05,2,ALL CAMPS IN JORDAN
+8970,Refugee,FPSC,Zaatari Camp (all district),PROT[REF1.2]MHPSS / Disabilities,[REF1.2.3]Special Needs/Disabled/Elderly,PROTECTION,direct,1.00E+05,2,ALL CAMPS IN JORDAN
+8979,Refugee,NRC,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.2]Replenishment/ replacement kits,BASIC NEEDS,direct,7.00E+05,2,ALL CAMPS IN JORDAN
+8989,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.2]MHPSS / Disabilities,[REF1.2.2]Community self-mngmt,PROTECTION,indirect,2500000,2,ALL CAMPS IN JORDAN
+8991,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.1]Refugee Rights Respected,[REF1.1.3] Civil Status Documentation,PROTECTION,indirect,50000,2,ALL CAMPS IN JORDAN
+8995,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.4]Emergency Obstetric Care,HEALTH,indirect,572623,2,ALL CAMPS IN JORDAN
+8998,Refugee,JHAS,Zaatari Camp (all district),HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.3]Convalescent care for War wounded,HEALTH,direct,250000,2,ALL CAMPS IN JORDAN
+9011,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.4]Child Protection,[REF1.4.4]Access Multi-Sector services,PROTECTION,indirect,533176,2,ALL CAMPS IN JORDAN
+9012,Refugee,NRC,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,1200000,2,ALL CAMPS IN JORDAN
+9020,Refugee,NRC,Zaatari Camp (all district),EDU[REF3.4]Teritiary Education,[REF3.4.4]Vocational/Skills Training,EDUCATION,direct,5.00E+05,2,ALL CAMPS IN JORDAN
+9034,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,711520,2,ALL CAMPS IN JORDAN
+9040,Refugee,SCI,Zaatari Camp (all district),EDU[REF3.1]EarlyChildhood,[REF3.1.1]Access to KG centres,EDUCATION,direct,1700000,2,ALL CAMPS IN JORDAN
+9048,Refugee,UNHCR,Zaatari Camp (all district),PROT[REF1.1]Refugee Rights Respected,[REF1.1.1]Border Reception/Transport/Comm. Po,PROTECTION,direct,2005144,2,ALL CAMPS IN JORDAN
+9052,Refugee,UNHCR,Zaatari Camp (all district),SHLT[REF1.1]Improve living conditions in camps,[REF1.1.1]Adequate shelters in camps,SHELTER,direct,2286000,2,ALL CAMPS IN JORDAN
+9065,Refugee,WarChild UK,Zaatari Camp (all district),EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,320000,2,ALL CAMPS IN JORDAN
+9067,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF3.1]Hygiene in Camps,[REF3.1.3]Vector control,WASH ,indirect,25684.4,2,ALL CAMPS IN JORDAN
+9073,Refugee,UNHCR,Zaatari Camp (all district),HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.4]Mat/Child Health mngt,HEALTH,indirect,123733,2,ALL CAMPS IN JORDAN
+9075,Refugee,SC Jordan,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,164997,2,ALL CAMPS IN JORDAN
+9083,Refugee,OXFAM,Zaatari Camp (all district),FOOD/LIV[1.2]Promote Safe/Nutr/Diverse Food,[REF1.2.3]Micro-Gardening,FOOD/LIVELIHOOD,direct,341555,2,ALL CAMPS IN JORDAN
+9092,Refugee,UNHCR,Zaatari Camp (all district),ENG[REF1.3]Electricity in Camps,[REF1.3.2]Zaatari,ENERGY,direct,8400000,2,ALL CAMPS IN JORDAN
+9093,Refugee,NRC,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.1]New Arrival kits in Camps,BASIC NEEDS,direct,50000,2,ALL CAMPS IN JORDAN
+9097,Refugee,UNHCR,Zaatari Camp (all district),BN[REF2.1]Life Saving Basic Needs,[REF2.1.4]Winterization needs in Camps,BASIC NEEDS,direct,711520,2,ALL CAMPS IN JORDAN
+9106,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF3.1]Hygiene in Camps,[REF3.1.2]Schools etc Hygiene promotion,WASH ,indirect,1578060.43,2,ALL CAMPS IN JORDAN
+9114,Refugee,UNICEF,Zaatari Camp (all district),WASH [REF2.1]Sanitation in Camps,[REF2.1.1]Water collection/disposal,WASH ,indirect,4943197,2,ALL CAMPS IN JORDAN
+9118,Refugee,NRC,Zaatari Camp (all district),EDU[REF2.1]Train Education Providers,[REF2.1.2]Community Trained,EDUCATION,direct,15000,2,ALL CAMPS IN JORDAN
+9123,Refugee,FPSC,Zaatari District 10,PROT[REF1.2]MHPSS / Disabilities,[REF1.2.4]Safe Spaces/Comm. Centres,PROTECTION,direct,5.00E+05,2,ALL CAMPS IN JORDAN
+9124,Refugee,ACTED,Zaatari District 10,WASH [REF2.1]Sanitation in Camps,[REF2.1.2]Sewer Networks,WASH ,direct,320000,2,ALL CAMPS IN JORDAN
+9131,Refugee,KnK,Zaatari District 4,EDU[REF3.2]Acces to Formal Education,[REF3.2.5]Remedial Education,EDUCATION,direct,355249,2,ALL CAMPS IN JORDAN
+9148,Refugee,UNFPA,Zaatari District 4,PROT[REF1.3]SGBV,[REF1.3.1]Community members engaged,PROTECTION,indirect,320000,2,ALL CAMPS IN JORDAN
+9155,Refugee,FCA,Zaatari District 4,EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,95000,2,ALL CAMPS IN JORDAN
+9167,Refugee,MDM,Zaatari District 5,HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.2]Community Hlth Network,HEALTH,direct,2862,2,ALL CAMPS IN JORDAN
+9173,Refugee,MDM,Zaatari District 5,HLTH[REF1.3]Integrated Community Intervs.,[REF1.3.1]Community Health Teams,HEALTH,direct,31090,2,ALL CAMPS IN JORDAN
+9175,Refugee,MDM,Zaatari District 5,HLTH[REF1.2]Secondary/Tertiary Care,[REF1.2.5]Secondary/Tertiary Referrals,HEALTH,direct,17277,2,ALL CAMPS IN JORDAN
+9179,Refugee,MDM,Zaatari District 5,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.6]Mental Health Services (primary),HEALTH,direct,46900,2,ALL CAMPS IN JORDAN
+9191,Refugee,MDM,Zaatari District 5,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.2]Improved NCD Mngt,HEALTH,direct,363480,2,ALL CAMPS IN JORDAN
+9192,Refugee,MDM,Zaatari District 5,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.1]Comm. Disease Mngt / EPI services,HEALTH,direct,104889,2,ALL CAMPS IN JORDAN
+9194,Refugee,MDM,Zaatari District 5,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.3]Reproductive Health Services,HEALTH,direct,100690,2,ALL CAMPS IN JORDAN
+9198,Refugee,FCA,Zaatari District 8,EDU[REF3.3]Alternative Education,[REF3.3.2]Informal Education,EDUCATION,direct,95000,2,ALL CAMPS IN JORDAN
 9223,Refugee,TDHI,Zarqa City,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.3]Reproductive Health Services,HEALTH,direct,727000,1712,Zarqa
 9243,Refugee,TDHI,Zarqa City,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.2]Improved NCD Mngt,HEALTH,direct,45000,1712,Zarqa
 9245,Refugee,IOCC,Zarqa City,FOOD/LIV[1.1]Improve Food Access,[REF 1.1.1]Food Assistance,FOOD/LIVELIHOOD,direct,81000,1712,Zarqa
