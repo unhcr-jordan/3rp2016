@@ -1345,447 +1345,299 @@
 10082,Refugee,Caritas,Zarqa Governorate,HLTH[REF1.1]Essential Primary Health Care,[REF1.1.2]Improved NCD Mngt,HEALTH,direct,6709,1712,ZARQA
 10091,Refugee,Caritas,Zarqa Governorate,EDU[REF3.4]Teritiary Education,[REF3.4.4]Vocational/Skills Training,EDUCATION,direct,25221.88857,1712,ZARQA
 10100,Refugee,Caritas,Zarqa Governorate,EDU[REF3.3]Alternative Education,[REF3.3.3]Life Skills,EDUCATION,direct,24717.6,1712,ZARQA
-10107,Resilience,WVI,Ajlun Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1701,AJLOUN
-10108,Resilience,WVI,Ajlun Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1701,AJLOUN
-10114,Resilience,NRC,Ajlun Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,4853,1701,AJLOUN
-10119,Resilience,UNICEF,Ajlun Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,119064.33,1701,AJLOUN
-10122,Resilience,MercyCorps,Ajlun Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,50000,1701,AJLOUN
-10126,Resilience,UNICEF,Ajlun Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1192828.2,1701,AJLOUN
-10127,Resilience,WVI,Ajlun Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,6460,1701,AJLOUN
-10128,Resilience,NRC,Ajlun Governorate,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,1412,1701,AJLOUN
-10131,Resilience,WVI,Ajlun Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1701,AJLOUN
-10132,Resilience,NRC,Ajlun Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,330508,1701,AJLOUN
-10133,Resilience,NRC,Ajlun Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,165254,1701,AJLOUN
-10142,Resilience,UNICEF,Al Balqa Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,119064.33,1702,Balqa
-10143,Resilience,OXFAM,Al Balqa Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,266666,1702,Balqa
-10144,Resilience,UNICEF,Al Balqa Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1192828.2,1702,Balqa
-10146,Resilience,OXFAM,Al Balqa Governorate,WASH[RES1.6]WAJ O&D capacity,[RES1.6.1]WAJ O&D,WASH ,direct,23205,1702,Balqa
-10148,Resilience,UNHABITAT,Amman,SHLT[RES2.4]Affordable Housing,[RES2.4.6]Capacity of Govt increased,SHELTER,direct,178579.165,1705,AMMAN
-10149,Resilience,UNICEF,Amman,WASH[RES2.4]Expand Sewage Jerash,[RES2.4.1]Sewage Bab Amman,WASH ,,3058780,1705,AMMAN
-10152,Resilience,OXFAM,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.3]Legal Awareness,JUSTICE,direct,15750,1705,AMMAN
-10159,Resilience,MercyCorps,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1500000,1705,AMMAN
-10161,Resilience,WVI,Amman Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1705,AMMAN
-10163,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.2]Capaciy of Supreme/Sharia courts,JUSTICE,direct,70000,1705,AMMAN
-10169,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.5]ADR services,JUSTICE,direct,60000,1705,AMMAN
-10173,Resilience,NRC,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,4853,1705,AMMAN
-10174,Resilience,OXFAM,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.1]National Legal Aid System,JUSTICE,direct,12000,1705,AMMAN
-10177,Resilience,SCI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.4]Boys/Girls Social Cohesion,EDUCATION,direct,650000,1705,AMMAN
-10178,Resilience,MercyCorps,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1705,AMMAN
-10183,Resilience,WVI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1705,AMMAN
-10184,Resilience,UNICEF,Amman Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1192828.2,1705,AMMAN
-10185,Resilience,UNWOMEN,Amman Governorate,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,512836.25,1705,AMMAN
-10186,Resilience,CARE,Amman Governorate,PROT[RES1.1]SGBV for JOR,[RES1.1.2]Multi-sector for JOR,PROTECTION,direct,60000,1705,AMMAN
-10195,Resilience,WVI,Amman Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,,6460,1705,AMMAN
-10198,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.1]Capacity of MoJ/Courts,JUSTICE,direct,20000,1705,AMMAN
-10200,Resilience,NRC,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,165254,1705,AMMAN
-10201,Resilience,SCI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,0,1705,AMMAN
-10202,Resilience,OXFAM,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.2]Legal Aid Services,JUSTICE,,36000,1705,AMMAN
-10206,Resilience,NRC,Amman Governorate,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,1412,1705,AMMAN
-10212,Resilience,CARE,Amman Governorate,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,105000,1705,AMMAN
-10219,Resilience,NEF,Amman Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,64555,1705,AMMAN
-10221,Resilience,NRC,Amman Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.4]Govt Capacity,PROTECTION,,75000,1705,AMMAN
-10224,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.1]National Legal Aid System,JUSTICE,direct,50000,1705,AMMAN
-10228,Resilience,WVI,Amman Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1705,AMMAN
-10230,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.4]Enhanced info exchange,JUSTICE,direct,50000,1705,AMMAN
-10231,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.2]Legal Aid Services,JUSTICE,direct,75000,1705,AMMAN
-10233,Resilience,AVSI,Amman Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1705,AMMAN
-10234,Resilience,NRC,Amman Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.1]Community Multisector Prot,PROTECTION,direct,37500,1705,AMMAN
-10237,Resilience,SCI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.2]School Imrpv. Plan,EDUCATION,direct,565000,1705,AMMAN
-10239,Resilience,OXFAM,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.5]ADR services,JUSTICE,direct,80000,1705,AMMAN
-10241,Resilience,UNICEF,Amman Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,119064.33,1705,AMMAN
-10243,Resilience,NRC,Amman Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,3.00E+05,1705,AMMAN
-10248,Resilience,NRC,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1322034,1705,AMMAN
-10252,Resilience,SCI,Amman Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,0,1705,AMMAN
-10259,Resilience,SCI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.1]Code of Conduct,EDUCATION,direct,391000,1705,AMMAN
-10267,Resilience,AVSI,Aqaba Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1703,AL AQABAH
-10270,Resilience,CARE,Azraq City,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,70000,1712,Zarqa
-10277,Resilience,UNDP,Country Wide,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.2]Expand NAF (JOR),BASIC NEEDS,direct,545951,1,Country Wide Intervention
-10278,Resilience,UNDP,Country Wide,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.1]Assessment of Impact on Soc.Prot,BASIC NEEDS,direct,150000,1,Country Wide Intervention
-10285,Resilience,UNICEF,Country Wide,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,indirect,3600000,1,Country Wide Intervention
-10286,Resilience,UNDP,Country Wide,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,5824044,1,Country Wide Intervention
-10287,Resilience,UNDP,Country Wide,ENV[RES4.1]JRP X-cutting,[RES4.1.1]Mainstream ENV in JRP projects,ENVIRONMENT,direct,50000,1,Country Wide Intervention
-10291,Resilience,UNDP,Country Wide,ENV[RES3.1]Air Quality,[RES3.1.2]Assessment of Emitters,ENVIRONMENT,direct,250000,1,Country Wide Intervention
-10293,Resilience,UNDP,Country Wide,ENV[RES4.1]JRP X-cutting,[RES4.1.2]EIA procedures,ENVIRONMENT,direct,150000,1,Country Wide Intervention
-10297,Resilience,UNICEF,Country Wide,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.1]OpenEMIS module expanded,EDUCATION,indirect,45360,1,Country Wide Intervention
-10299,Resilience,UNESCO,Country Wide,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.1]OpenEMIS module expanded,EDUCATION,direct,2.00E+05,1,Country Wide Intervention
-10302,Resilience,UNESCO,Country Wide,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.2]Ministry Plan/Mngt Capacity,EDUCATION,direct,3.00E+05,1,Country Wide Intervention
-10303,Resilience,WVI,Country Wide,ENV[RES4.1]JRP X-cutting,[RES4.1.2]EIA procedures,ENVIRONMENT,direct,150000,1,Country Wide Intervention
-10305,Resilience,UNDP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.1]Cash for Work for JOR,FOOD/LIVELIHOOD,direct,1524718,1,Country Wide Intervention
-10308,Resilience,UNICEF,Country Wide,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.3]Studies and research,EDUCATION,indirect,141750,1,Country Wide Intervention
-10310,Resilience,RI,Country Wide,EDU[RES1.2]Recognition of learning JOR,[RES1.2.2]Recognition of Post Basic,EDUCATION,direct,1.00E+05,1,Country Wide Intervention
-10314,Resilience,UNICEF,Country Wide,EDU[RES1.3]Access to Inclusive Education JOR,[RES1.3.1]Expand Higher Education,EDUCATION,direct,28350,1,Country Wide Intervention
-10315,Resilience,UNDP,Country Wide,ENV[RES3.1]Air Quality,[RES3.1.1]Monitoring Network,ENVIRONMENT,direct,50000,1,Country Wide Intervention
-10321,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.1]Capacity of MoJ/Courts,JUSTICE,direct,5980000,1,Country Wide Intervention
-10324,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.2]Capaciy of Supreme/Sharia courts,JUSTICE,direct,380000,1,Country Wide Intervention
-10330,Resilience,UNICEF,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.2]Capaciy of Supreme/Sharia courts,JUSTICE,indirect,50000,1,Country Wide Intervention
-10335,Resilience,UNDP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,1605435,1,Country Wide Intervention
-10339,Resilience,UNICEF,Country Wide,EDU[RES2.1]Teacher Training JOR,[RES2.1.2]In-Service Training,EDUCATION,indirect,0,1,Country Wide Intervention
-10342,Resilience,UNESCO,Country Wide,EDU[RES2.1]Teacher Training JOR,[RES2.1.2]In-Service Training,EDUCATION,indirect,480000,1,Country Wide Intervention
-10345,Resilience,UNICEF,Country Wide,EDU[RES2.1]Teacher Training JOR,[RES2.1.3]Leader Training,EDUCATION,indirect,283500,1,Country Wide Intervention
-10349,Resilience,UNDP,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,2892466,1,Country Wide Intervention
-10352,Resilience,WarChildUK,Country Wide,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,50000,1,Country Wide Intervention
-10365,Resilience,UNICEF,Country Wide,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,indirect,0,1,Country Wide Intervention
-10369,Resilience,WFP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,indirect,5022889,1,Country Wide Intervention
-10375,Resilience,RI,Country Wide,EDU[RES3.3]Alternt Edc for JOR,[RES3.3.1]Non-Formal Educ,EDUCATION,direct,0,1,Country Wide Intervention
-10378,Resilience,UNDP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,5672889,1,Country Wide Intervention
-10383,Resilience,Questcope,Country Wide,EDU[RES3.3]Alternt Edc for JOR,[RES3.3.1]Non-Formal Educ,EDUCATION,direct,0,1,Country Wide Intervention
-10387,Resilience,UNOPS,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.1]Apppliances promoted,ENERGY,direct,3.00E+06,1,Country Wide Intervention
-10394,Resilience,UNDP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.4]Social Cohesion for JOR,FOOD/LIVELIHOOD,direct,180000,1,Country Wide Intervention
-10396,Resilience,UNICEF,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.4]HIS upgraded,HEALTH,indirect,2007000,1,Country Wide Intervention
-10402,Resilience,UNDP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.1]Demand-based business skills,FOOD/LIVELIHOOD,direct,5466927,1,Country Wide Intervention
-10407,Resilience,RI,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.1]Demand-based business skills,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
-10412,Resilience,WFP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.1]Demand-based business skills,FOOD/LIVELIHOOD,indirect,4018311,1,Country Wide Intervention
-10416,Resilience,WFP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,indirect,2678875,1,Country Wide Intervention
-10421,Resilience,RI,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
-10424,Resilience,RI,Country Wide,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
-10432,Resilience,UNDP,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.5]New Solar Farm,MUNICIPALITY,direct,2500000,1,Country Wide Intervention
-10438,Resilience,SCI,Country Wide,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,420000,1,Country Wide Intervention
-10441,Resilience,UNDP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,5417717,1,Country Wide Intervention
-10442,Resilience,UNDP,Country Wide,MUN[RES1.2]SWM,[RES1.2.2]Capacity building progs.,MUNICIPALITY,direct,175000,1,Country Wide Intervention
-10445,Resilience,UNOPS,Country Wide,MUN[RES1.2]SWM,[RES1.2.2]Capacity building progs.,MUNICIPALITY,direct,175000,1,Country Wide Intervention
-10450,Resilience,UNDP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.3]Capacity fo Voc. Training Providers,FOOD/LIVELIHOOD,direct,428190,1,Country Wide Intervention
-10453,Resilience,ILO,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.1]MoL capacity improved,FOOD/LIVELIHOOD,direct,6.00E+05,1,Country Wide Intervention
-10457,Resilience,UNDP,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.1]MoL capacity improved,FOOD/LIVELIHOOD,direct,1.00E+06,1,Country Wide Intervention
-10462,Resilience,ILO,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.2]Formalize Informal sector,FOOD/LIVELIHOOD,direct,2.00E+06,1,Country Wide Intervention
-10466,Resilience,UNDP,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.2]Formalize Informal sector,FOOD/LIVELIHOOD,direct,6.00E+05,1,Country Wide Intervention
-10468,Resilience,ILO,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.3]MoL Info Mngt system,FOOD/LIVELIHOOD,direct,6.00E+05,1,Country Wide Intervention
-10471,Resilience,UNOPS,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,2.00E+06,1,Country Wide Intervention
-10478,Resilience,RI,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
-10480,Resilience,WVI,Country Wide,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.2]WASH in Schools,EDUCATION,direct,212799.26,1,Country Wide Intervention
-10481,Resilience,UNHABITAT,Country Wide,MUN[RES2.1]Urban Service Delivery,[RES2.1.3]Improv. Capacity of Mun,MUNICIPALITY,,1.00E+05,1,Country Wide Intervention
-10483,Resilience,UNDP,Country Wide,MUN[RES2.2]LDU linkages,[RES2.2.1]Gov. Dvpt Plans updated,MUNICIPALITY,direct,1400000,1,Country Wide Intervention
-10486,Resilience,UNDP,Country Wide,MUN[RES2.2]LDU linkages,[RES2.2.2]Mun LED plans,MUNICIPALITY,direct,1.00E+06,1,Country Wide Intervention
-10488,Resilience,UNDP,Country Wide,ENV[RES1.1]Rehab Ecosystems,[RES1.1.2]Rehab plans developed,ENVIRONMENT,direct,0,1,Country Wide Intervention
-10489,Resilience,UNDP,Country Wide,MUN[RES2.2]LDU linkages,[RES2.2.3]Mun LDU staff trained,MUNICIPALITY,direct,1564200,1,Country Wide Intervention
-10492,Resilience,UNICEF,Country Wide,EDU[RES3.2]Formal Educ. for JOR,"[RES3.2.3]Playground, Libraries etc",EDUCATION,indirect,0,1,Country Wide Intervention
-10494,Resilience,UNDP,Country Wide,ENV[RES1.1]Rehab Ecosystems,[RES1.1.4]Awareness programmes,ENVIRONMENT,direct,50000,1,Country Wide Intervention
-10496,Resilience,UNDP,Country Wide,ENV[RES1.2]Sust. Livelihoods,[RES1.2.1]Feasibility Assessment,ENVIRONMENT,direct,250000,1,Country Wide Intervention
-10500,Resilience,Questcope,Country Wide,EDU[RES3.3]Alternt Edc for JOR,[RES3.3.1]Non-Formal Educ,EDUCATION,direct,0,1,Country Wide Intervention
-10503,Resilience,UNDP,Country Wide,ENV[RES2.1]Medical Waste,[RES2.1.1]MW practices assessed,ENVIRONMENT,direct,250000,1,Country Wide Intervention
-10506,Resilience,UNDP,Country Wide,ENV[RES2.1]Medical Waste,[RES2.1.2]MW Capacity improved,ENVIRONMENT,direct,50000,1,Country Wide Intervention
-10512,Resilience,UNDP,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.1]Apppliances promoted,ENERGY,direct,5.00E+06,1,Country Wide Intervention
-10515,Resilience,UNOPS,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.2]Thermal Insulation,ENERGY,direct,450000,1,Country Wide Intervention
-10518,Resilience,UNDP,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.2]Thermal Insulation,ENERGY,direct,750000,1,Country Wide Intervention
-10521,Resilience,UNOPS,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,350000,1,Country Wide Intervention
-10522,Resilience,UNDP,Country Wide,MUN[RES3.2]Mun. Systems,[RES3.2.4]CCGPs,MUNICIPALITY,direct,25000,1,Country Wide Intervention
-10527,Resilience,UNDP,Country Wide,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,3065852,1,Country Wide Intervention
-10528,Resilience,UNDP,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,170000,1,Country Wide Intervention
-10529,Resilience,UNHABITAT,Country Wide,MUN[RES3.3]Urban Financing,[RES3.3.2]Trainings on credit rating methodol,MUNICIPALITY,direct,267191.6,1,Country Wide Intervention
-10532,Resilience,UNHABITAT,Country Wide,MUN[RES3.3]Urban Financing,[RES3.3.3]ICT integrated finanical systems,MUNICIPALITY,direct,7.00E+05,1,Country Wide Intervention
-10535,Resilience,UNHABITAT,Country Wide,MUN[RES3.3]Urban Financing,[RES3.3.4]Local investment plans / PPP,MUNICIPALITY,direct,95236.2,1,Country Wide Intervention
-10541,Resilience,UNWOMEN,Country Wide,PROT[RES1.1]SGBV for JOR,[RES1.1.1]Community engagement for JOR,PROTECTION,direct,150000,1,Country Wide Intervention
-10543,Resilience,FAO,Country Wide,FOOD/LIV[1.3]Agric/Liv/FS programming,[RES1.3.3]FS Strategy,FOOD/LIVELIHOOD,indirect,1.00E+05,1,Country Wide Intervention
-10545,Resilience,RI,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.1]Cash for Work for JOR,FOOD/LIVELIHOOD,direct,3.00E+05,1,Country Wide Intervention
-10548,Resilience,WHO,Country Wide,HLTH[RES3.1]Community Interventions,[RES3.1.3]Comm Services Elderly,HEALTH,direct,15000,1,Country Wide Intervention
-10549,Resilience,UNDP,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,3.00E+06,1,Country Wide Intervention
-10552,Resilience,UNOPS,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,2.00E+06,1,Country Wide Intervention
-10553,Resilience,UNICEF,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.3]Medical Equip/Supplies,HEALTH,indirect,933000,1,Country Wide Intervention
-10557,Resilience,UNOPS,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,3.00E+06,1,Country Wide Intervention
-10559,Resilience,UNDP,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.1]LED implement  LDPs,FOOD/LIVELIHOOD,direct,366869,1,Country Wide Intervention
-10561,Resilience,UNDP,Country Wide,MUN[RES1.2]SWM,[RES1.2.1]Equipment purchased,MUNICIPALITY,direct,28500,1,Country Wide Intervention
-10565,Resilience,UNDP,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,5.00E+06,1,Country Wide Intervention
-10574,Resilience,RI,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.3]Socio-Econ Infrastructure,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
-10579,Resilience,UNDP,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.3]Socio-Econ Infrastructure,FOOD/LIVELIHOOD,direct,5.00E+05,1,Country Wide Intervention
-10581,Resilience,UNFPA,Country Wide,PROT[RES1.1]SGBV for JOR,[RES1.1.2]Multi-sector for JOR,PROTECTION,indirect,325000,1,Country Wide Intervention
-10584,Resilience,UNDP,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+06,1,Country Wide Intervention
-10587,Resilience,UNDP,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.4]Coops and Associations supported,FOOD/LIVELIHOOD,direct,618260,1,Country Wide Intervention
-10600,Resilience,UNDP,Country Wide,ENG[RES1.3]Electricity in Camps,[RES1.3.3]Elec Infrast. Upgraded in Host Comm,ENERGY,direct,7.00E+06,1,Country Wide Intervention
-10603,Resilience,UNOPS,Country Wide,ENG[RES1.3]Electricity in Camps,[RES1.3.3]Elec Infrast. Upgraded in Host Comm,ENERGY,direct,5.00E+06,1,Country Wide Intervention
-10606,Resilience,UNDP,Country Wide,ENV[RES1.1]Rehab Ecosystems,[RES1.1.1]Study on Ecosystems,ENVIRONMENT,direct,3.00E+05,1,Country Wide Intervention
-10608,Resilience,WVI,Country Wide,ENV[RES4.1]JRP X-cutting,[RES4.1.1]Mainstream ENV in JRP projects,ENVIRONMENT,direct,50000,1,Country Wide Intervention
-10609,Resilience,UNHABITAT,Country Wide,SHLT[RES3.1]Housing Framework,[RES3.1.3]Policy Reforms,SHELTER,direct,45000,1,Country Wide Intervention
-10612,Resilience,UNDP,Country Wide,ENV[RES1.1]Rehab Ecosystems,[RES1.1.3]Capacities enhanced,ENVIRONMENT,direct,50000,1,Country Wide Intervention
-10614,Resilience,UNDP,Country Wide,JUS[RES2.2]Improved access to legal services,[RES2.2.2]Legal Aid Services,JUSTICE,direct,5.00E+05,1,Country Wide Intervention
-10617,Resilience,UNDP,Country Wide,MUN[RES3.1]Local Public Sector Services,[RES3.1.1]Review LG response,MUNICIPALITY,direct,847000,1,Country Wide Intervention
-10621,Resilience,UNDP,Country Wide,ENV[RES1.2]Sust. Livelihoods,[RES1.2.2]Capacity of CBOs enhanced,ENVIRONMENT,direct,1.00E+06,1,Country Wide Intervention
-10623,Resilience,UNDP,Country Wide,MUN[RES3.1]Local Public Sector Services,[RES3.1.3]SOPs for core functions,MUNICIPALITY,direct,151300,1,Country Wide Intervention
-10627,Resilience,UNDP,Country Wide,MUN[RES3.1]Local Public Sector Services,[RES3.1.4]Legal Frmwk for investment,MUNICIPALITY,direct,2.00E+05,1,Country Wide Intervention
-10630,Resilience,UNDP,Country Wide,ENV[RES2.1]Medical Waste,[RES2.1.3]Local MW mngt plans,ENVIRONMENT,direct,50000,1,Country Wide Intervention
-10632,Resilience,UNDP,Country Wide,ENV[RES2.2]Swaqa Dumping Site,[RES2.2.1]Master upgrading plan,ENVIRONMENT,direct,180000,1,Country Wide Intervention
-10636,Resilience,UNDP,Country Wide,ENV[RES2.2]Swaqa Dumping Site,[RES2.2.2]Mech.for cleaning up site,ENVIRONMENT,direct,0,1,Country Wide Intervention
-10638,Resilience,IOM,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.2]EPIs,HEALTH,direct,650000,1,Country Wide Intervention
-10641,Resilience,IOM,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.3]Comm diseases,HEALTH,direct,312500,1,Country Wide Intervention
-10643,Resilience,WHO,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.3]Comm diseases,HEALTH,direct,25000,1,Country Wide Intervention
-10645,Resilience,UNDP,Country Wide,ENV[RES3.1]Air Quality,[RES3.1.3]Cleaner Prod. Approaches,ENVIRONMENT,direct,0,1,Country Wide Intervention
-10647,Resilience,UNDP,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.2]Value Chain developed,FOOD/LIVELIHOOD,direct,618260,1,Country Wide Intervention
-10650,Resilience,UNICEF,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.4]Reprod. Health,HEALTH,,150000,1,Country Wide Intervention
-10652,Resilience,IMC,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.5]Mental Health,HEALTH,direct,1500000,1,Country Wide Intervention
-10654,Resilience,WHO,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.5]Mental Health,HEALTH,direct,1.00E+05,1,Country Wide Intervention
-10656,Resilience,UNICEF,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.5]Mental Health,HEALTH,indirect,142000,1,Country Wide Intervention
-10660,Resilience,FAO,Country Wide,FOOD/LIV[1.3]Agric/Liv/FS programming,[RES1.3.1]Agr/Liv/Nat Resource programming im,FOOD/LIVELIHOOD,indirect,6.00E+05,1,Country Wide Intervention
-10662,Resilience,FAO,Country Wide,FOOD/LIV[1.3]Agric/Liv/FS programming,[RES1.3.2]DoS FS monitoring system,FOOD/LIVELIHOOD,indirect,1.00E+05,1,Country Wide Intervention
-10673,Resilience,UNFPA,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.3]Medical Equip/Supplies,HEALTH,indirect,2500000,1,Country Wide Intervention
-10674,Resilience,UNICEF,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.4]Govt Capacity,PROTECTION,,4.00E+05,1,Country Wide Intervention
-10676,Resilience,WHO,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.4]HIS upgraded,HEALTH,direct,5.00E+05,1,Country Wide Intervention
-10678,Resilience,UNFPA,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.4]HIS upgraded,HEALTH,indirect,1.00E+05,1,Country Wide Intervention
-10681,Resilience,UNWOMEN,Country Wide,PROT[RES1.1]SGBV for JOR,[RES1.1.2]Multi-sector for JOR,PROTECTION,direct,2.00E+05,1,Country Wide Intervention
-10684,Resilience,UNICEF,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.1]Community Multisector Prot,PROTECTION,indirect,4.00E+05,1,Country Wide Intervention
-10686,Resilience,WVI,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,48820,1,Country Wide Intervention
-10689,Resilience,FAO,Country Wide,FOOD/LIV[3.2]TAD,[RES3.2.1]TAD surveillance,FOOD/LIVELIHOOD,indirect,5.00E+05,1,Country Wide Intervention
-10698,Resilience,UNICEF,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.3]Capacity of Judicial Council,JUSTICE,indirect,50000,1,Country Wide Intervention
-10702,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.3]Capacity of Judicial Council,JUSTICE,direct,250000,1,Country Wide Intervention
-10703,Resilience,UNDP,Country Wide,MUN[RES1.2]SWM,[RES1.2.4]Waster segregation pilots,MUNICIPALITY,direct,7.00E+05,1,Country Wide Intervention
-10707,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.4]Enhanced info exchange,JUSTICE,direct,150000,1,Country Wide Intervention
-10711,Resilience,UNHABITAT,Country Wide,MUN[RES2.1]Urban Service Delivery,[RES2.1.1]Urban information,MUNICIPALITY,direct,150000,1,Country Wide Intervention
-10713,Resilience,WVI,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.4]Coops and Associations supported,FOOD/LIVELIHOOD,direct,48820,1,Country Wide Intervention
-10717,Resilience,UNDP,Country Wide,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,9131635,1,Country Wide Intervention
-10718,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.5]ADR services,JUSTICE,direct,52000,1,Country Wide Intervention
-10720,Resilience,UNICEF,Country Wide,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,indirect,1711206,1,Country Wide Intervention
-10726,Resilience,UNDP,Country Wide,JUS[RES2.2]Improved access to legal services,[RES2.2.1]National Legal Aid System,JUSTICE,direct,226000,1,Country Wide Intervention
-10729,Resilience,UNOPS,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.1]Roads maintained,MUNICIPALITY,direct,4700000,1,Country Wide Intervention
-10735,Resilience,UNDP,Country Wide,MUN[RES2.2]LDU linkages,[RES2.2.4]Vert/Horiz Accountability,MUNICIPALITY,direct,347000,1,Country Wide Intervention
-10741,Resilience,UNDP,Country Wide,MUN[RES3.1]Local Public Sector Services,[RES3.1.2]Assmt. Urban Planning,MUNICIPALITY,direct,1.00E+05,1,Country Wide Intervention
-10744,Resilience,UNDP,Country Wide,FOOD/LIV[3.4]Restoring Pastoral Liv.,[RES3.4.1]Harvesting/Range Mngt,FOOD/LIVELIHOOD,direct,150000,1,Country Wide Intervention
-10748,Resilience,FAO,Country Wide,FOOD/LIV[3.4]Restoring Pastoral Liv.,[RES3.4.1]Harvesting/Range Mngt,FOOD/LIVELIHOOD,indirect,3.00E+05,1,Country Wide Intervention
-10750,Resilience,UNDP,Country Wide,FOOD/LIV[3.4]Restoring Pastoral Liv.,[RES3.4.2]Increased animal wealth,FOOD/LIVELIHOOD,direct,150000,1,Country Wide Intervention
-10753,Resilience,UNDP,Country Wide,MUN[RES3.2]Mun. Systems,[RES3.2.1]Capacity Assessments,MUNICIPALITY,direct,8.00E+05,1,Country Wide Intervention
-10759,Resilience,UNDP,Country Wide,JUS[RES2.2]Improved access to legal services,[RES2.2.3]Legal Awareness,JUSTICE,direct,2.00E+05,1,Country Wide Intervention
-10760,Resilience,WVI,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,direct,48820,1,Country Wide Intervention
-10766,Resilience,UNDP,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.1]Roads maintained,MUNICIPALITY,direct,4650000,1,Country Wide Intervention
-10768,Resilience,UNHABITAT,Country Wide,MUN[RES3.3]Urban Financing,[RES3.3.1]Awarenesss and outreach teams,MUNICIPALITY,direct,121756.4,1,Country Wide Intervention
-10774,Resilience,UNDP,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.2]Public Spaces est.,MUNICIPALITY,direct,1925000,1,Country Wide Intervention
-10777,Resilience,UNICEF,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,indirect,1500000,1,Country Wide Intervention
-10780,Resilience,UNDP,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.3]Storm water culverts,MUNICIPALITY,direct,1950000,1,Country Wide Intervention
-10783,Resilience,UNFPA,Country Wide,HLTH[RES2.1]2ndary / Tertiary,[RES2.1.5]Comprehensive Women,HEALTH,indirect,1500000,1,Country Wide Intervention
-10785,Resilience,UNFPA,Country Wide,HLTH[RES3.1]Community Interventions,[RES3.1.1]Comm Health awareness,HEALTH,indirect,150000,1,Country Wide Intervention
-10788,Resilience,WHO,Country Wide,HLTH[RES3.1]Community Interventions,[RES3.1.2]Comm Rehab services,HEALTH,direct,75000,1,Country Wide Intervention
-10792,Resilience,UNDP,Country Wide,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.3]MSME Coordination,FOOD/LIVELIHOOD,direct,375308,1,Country Wide Intervention
-10793,Resilience,WHO,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.2]Human resources strengthened,HEALTH,direct,150000,1,Country Wide Intervention
-10794,Resilience,UNHABITAT,Country Wide,SHLT[RES2.4]Affordable Housing,[RES2.4.3]Affordable Housing units,SHELTER,direct,549958,1,Country Wide Intervention
-10800,Resilience,UNOPS,Country Wide,MUN[RES1.2]SWM,[RES1.2.1]Equipment purchased,MUNICIPALITY,direct,28500,1,Country Wide Intervention
-10801,Resilience,FAO,Country Wide,FOOD/LIV[3.1]Farm Households,[RES3.1.1]New technologies,FOOD/LIVELIHOOD,indirect,1.00E+06,1,Country Wide Intervention
-10804,Resilience,UNDP,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.4]Govt Capacity,PROTECTION,,701180,1,Country Wide Intervention
-10807,Resilience,UNHABITAT,Country Wide,SHLT[RES3.1]Housing Framework,[RES3.1.2]Nat Housing Strategy,SHELTER,direct,0,1,Country Wide Intervention
-10808,Resilience,FAO,Country Wide,FOOD/LIV[3.1]Farm Households,[RES3.1.2]Increase Capacity,FOOD/LIVELIHOOD,indirect,1.00E+06,1,Country Wide Intervention
-10811,Resilience,UNICEF,Country Wide,PROT[RES1.1]SGBV for JOR,[RES1.1.3]Capacity of Service Providers,PROTECTION,indirect,1.00E+05,1,Country Wide Intervention
-10812,Resilience,FAO,Country Wide,FOOD/LIV[3.2]TAD,[RES3.2.2]Animal Health,FOOD/LIVELIHOOD,indirect,1.00E+06,1,Country Wide Intervention
-10814,Resilience,UNOPS,Country Wide,MUN[RES1.2]SWM,[RES1.2.3]SW treatment cells,MUNICIPALITY,direct,1.50E+07,1,Country Wide Intervention
-10820,Resilience,UNDP,Country Wide,MUN[RES1.2]SWM,[RES1.2.3]SW treatment cells,MUNICIPALITY,direct,1.50E+07,1,Country Wide Intervention
-10825,Resilience,UNDP,Country Wide,PROT[RES1.4]Soc Prot Services JOR,[RES1.4.5]Addiction Rehab.,PROTECTION,direct,3700000,1,Country Wide Intervention
-10827,Resilience,UNHABITAT,Country Wide,SHLT[RES2.4]Affordable Housing,[RES2.4.1]Outreach hubs,SHELTER,direct,276979.165,1,Country Wide Intervention
-10830,Resilience,UNOPS,Country Wide,TRAN[1.5]Mass Transit,[RES1.5.1]Feasibility Assessment,TRANSPORT,direct,8.00E+05,1,Country Wide Intervention
-10836,Resilience,UNDP,Country Wide,MUN[RES3.2]Mun. Systems,[RES3.2.2]Computerized mngt sys.,MUNICIPALITY,direct,3550000,1,Country Wide Intervention
-10838,Resilience,UNWOMEN,Country Wide,PROT[RES1.1]SGBV for JOR,[RES1.1.3]Capacity of Service Providers,PROTECTION,direct,210000,1,Country Wide Intervention
-10839,Resilience,UNHABITAT,Country Wide,MUN[RES2.1]Urban Service Delivery,[RES2.1.3]Comm Infrast Services,MUNICIPALITY,direct,3.00E+05,1,Country Wide Intervention
-10843,Resilience,UNDP,Country Wide,FOOD/LIV[3.1]Farm Households,[RES3.1.2]Increase Capacity,FOOD/LIVELIHOOD,direct,5.00E+05,1,Country Wide Intervention
-10856,Resilience,FAO,Country Wide,FOOD/LIV[3.3]Agric Tech,[RES3.3.1]Climate-Smart Tech,FOOD/LIVELIHOOD,indirect,1300000,1,Country Wide Intervention
-10858,Resilience,UNOPS,Country Wide,TRAN[1.1]Assessment,[RES1.1.1]Needs Assessment,TRANSPORT,direct,5.00E+05,1,Country Wide Intervention
-10860,Resilience,FAO,Country Wide,FOOD/LIV[3.3]Agric Tech,[RES3.3.2]Increase capacity of MoA,FOOD/LIVELIHOOD,indirect,5.00E+05,1,Country Wide Intervention
-10867,Resilience,UNOPS,Country Wide,TRAN[1.4]Transpt Capacity in North,[RES1.4.1]Passenger Terminals,TRANSPORT,direct,3.00E+06,1,Country Wide Intervention
-10870,Resilience,RI,Country Wide,WASH[RES3.1]WASH in Schools,[RES3.1.4]Hygiene materials,WASH ,,0,1,Country Wide Intervention
-10873,Resilience,FAO,Country Wide,FOOD/LIV[3.4]Restoring Pastoral Liv.,[RES3.4.2]Increased animal wealth,FOOD/LIVELIHOOD,indirect,3.00E+05,1,Country Wide Intervention
-10879,Resilience,UNDP,Country Wide,MUN[RES3.2]Mun. Systems,[RES3.2.3]Property Tax colleciton,MUNICIPALITY,direct,2.00E+05,1,Country Wide Intervention
-10881,Resilience,UNHABITAT,Country Wide,SHLT[RES2.4]Affordable Housing,[RES2.4.5]Nat. Housing entity,SHELTER,direct,332000,1,Country Wide Intervention
-10887,Resilience,UNICEF,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,indirect,1030000,1,Country Wide Intervention
-10888,Resilience,WVI,Country Wide,WASH[RES3.1]WASH in Schools,[RES3.1.4]Hygiene materials,WASH ,,48820,1,Country Wide Intervention
-10891,Resilience,UNFPA,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.4]Reprod. Health,HEALTH,indirect,1200000,1,Country Wide Intervention
-10892,Resilience,MercyCorps,Country Wide,WASH[RES1.1]Rehab Wells,[RES1.1.1]Rehab Existing wells,WASH ,Direct,2.00E+06,1,Country Wide Intervention
-10897,Resilience,UNICEF,Country Wide,PROT[RES1.2]Child Protection for JOR,[RES1.2.4]Comm. Based CP systems,PROTECTION,indirect,4857500,1,Country Wide Intervention
-10901,Resilience,UNOPS,Country Wide,TRAN[2.3]Expand Road Networks,[RES2.3.3]Road Safety Awareness,TRANSPORT,direct,2.00E+05,1,Country Wide Intervention
-10902,Resilience,UNICEF,Country Wide,HLTH[RES2.1]2ndary / Tertiary,[RES2.1.5]Comprehensive Women,HEALTH,indirect,385000,1,Country Wide Intervention
-10903,Resilience,UNWOMEN,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,direct,3.00E+05,1,Country Wide Intervention
-10904,Resilience,WVI,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.1]Community Multisector Prot,PROTECTION,direct,48820,1,Country Wide Intervention
-10905,Resilience,UNOPS,Country Wide,TRAN[1.3]Transpt Capacity in North,[RES1.3.2]Buses Depot,TRANSPORT,direct,3.00E+05,1,Country Wide Intervention
-10911,Resilience,UNHABITAT,Country Wide,SHLT[RES2.4]Affordable Housing,[RES2.4.2]Info/Outreach strategy,SHELTER,direct,134679.165,1,Country Wide Intervention
-10912,Resilience,UNICEF,Country Wide,PROT[RES1.1]SGBV for JOR,[RES1.1.1]Community engagement for JOR,PROTECTION,indirect,40000,1,Country Wide Intervention
-10913,Resilience,UNHABITAT,Country Wide,SHLT[RES3.1]Housing Framework,[RES3.1.1]Assessment,SHELTER,direct,1.00E+05,1,Country Wide Intervention
-10916,Resilience,WHO,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.1]NCDs,HEALTH,direct,5.00E+05,1,Country Wide Intervention
-10918,Resilience,UNHABITAT,Country Wide,MUN[RES2.1]Urban Service Delivery,[RES2.1.2]Rapid city profiles,MUNICIPALITY,direct,707628.5,1,Country Wide Intervention
-10922,Resilience,UNICEF,Country Wide,PROT[RES1.1]SGBV for JOR,[RES1.1.2]Multi-sector for JOR,PROTECTION,indirect,304693,1,Country Wide Intervention
-10924,Resilience,UNFPA,Country Wide,PROT[RES1.1]SGBV for JOR,[RES1.1.3]Capacity of Service Providers,PROTECTION,indirect,340000,1,Country Wide Intervention
-10927,Resilience,WVI,Country Wide,PROT[RES1.2]Child Protection for JOR,[RES1.2.3]Families mobilized,PROTECTION,direct,48820,1,Country Wide Intervention
-10928,Resilience,UNDP,Country Wide,PROT[RES1.4]Soc Prot Services JOR,[RES1.4.1]Services for Elderly,PROTECTION,direct,1300000,1,Country Wide Intervention
-10932,Resilience,UNICEF,Country Wide,PROT[RES1.2]Child Protection for JOR,[RES1.2.3]Families mobilized,PROTECTION,indirect,1200000,1,Country Wide Intervention
-10938,Resilience,WVI,Country Wide,PROT[RES1.2]Child Protection for JOR,[RES1.2.1]Cap. Nat. CP Systems,PROTECTION,,48820,1,Country Wide Intervention
-10946,Resilience,UNICEF,Country Wide,PROT[RES1.2]Child Protection for JOR,[RES1.2.2]Legal & Policy Framework,PROTECTION,indirect,250000,1,Country Wide Intervention
-10949,Resilience,UNDP,Country Wide,FOOD/LIV[3.2]TAD,[RES3.2.2]Animal Health,FOOD/LIVELIHOOD,direct,1.00E+06,1,Country Wide Intervention
-10954,Resilience,UNICEF,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.2]EPIs,HEALTH,indirect,865000,1,Country Wide Intervention
-10956,Resilience,UNOPS,Country Wide,TRAN[1.3]Transpt Capacity in North,[RES1.3.1]MoT Transport Fleet,TRANSPORT,direct,1.00E+06,1,Country Wide Intervention
-10958,Resilience,UNDP,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,direct,1300000,1,Country Wide Intervention
-10966,Resilience,RI,Country Wide,PROT[RES1.2]Child Protection for JOR,[RES1.2.1]Cap. Nat. CP Systems,PROTECTION,direct,62500,1,Country Wide Intervention
-10971,Resilience,RI,Country Wide,WASH[RES3.1]WASH in Schools,[RES3.1.1]Toilets in 300 Schools,WASH ,direct,566868,1,Country Wide Intervention
-10973,Resilience,WVI,Country Wide,PROT[RES1.2]Child Protection for JOR,[RES1.2.4]Comm. Based CP systems,PROTECTION,direct,48820,1,Country Wide Intervention
-10975,Resilience,UNHABITAT,Country Wide,SHLT[RES3.1]Housing Framework,[RES3.1.4]HUDC fulfils mandate,SHELTER,direct,150000,1,Country Wide Intervention
-10979,Resilience,WHO,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.2]EPIs,HEALTH,direct,1.00E+05,1,Country Wide Intervention
-10980,Resilience,UNHABITAT,Country Wide,SHLT[RES2.4]Affordable Housing,[RES2.4.4]Technical support to Municp.,SHELTER,direct,200979.165,1,Country Wide Intervention
-10982,Resilience,WVI,Country Wide,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.4]Govt Capacity,PROTECTION,,48820,1,Country Wide Intervention
-10983,Resilience,UNICEF,Country Wide,PROT[RES1.2]Child Protection for JOR,[RES1.2.1]Cap. Nat. CP Systems,PROTECTION,indirect,5.00E+05,1,Country Wide Intervention
-10987,Resilience,WVI,Country Wide,WASH[RES2.1]Wastewater,[RES2.1.1]WW collection/treatment,WASH ,direct,212799.26,1,Country Wide Intervention
-10995,Resilience,UNDP,Country Wide,PROT[RES1.4]Soc Prot Services JOR,[RES1.4.4]Persons with Disabilities,PROTECTION,direct,1204087,1,Country Wide Intervention
-11001,Resilience,ACF,Irbid City,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,170000,1707,Irbid
-11003,Resilience,DRC,Irbid City,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,5.00E+05,1707,Irbid
-11005,Resilience,DRC,Irbid City,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,2.00E+05,1707,Irbid
-11011,Resilience,UNOPS,Irbid Governorate,TRAN[2.3]Expand Road Networks,[RES2.3.1]Updgrade Road Networks,TRANSPORT,direct,7.00E+06,1707,Irbid
-11015,Resilience,NRC,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1322034,1707,Irbid
-11018,Resilience,UNOPS,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.4]Chicken Slaughterhouse,MUNICIPALITY,direct,325000,1707,Irbid
-11019,Resilience,NRC,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,1156780,1707,Irbid
-11021,Resilience,LWF,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,624159,1707,Irbid
-11028,Resilience,NRC,Irbid Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.4]Govt Capacity,PROTECTION,,150000,1707,Irbid
-11029,Resilience,WVI,Irbid Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,6460,1707,Irbid
-11030,Resilience,NRC,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,5400000,1707,Irbid
-11033,Resilience,MercyCorps,Irbid Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.2]Value Chain developed,FOOD/LIVELIHOOD,direct,325000,1707,Irbid
-11034,Resilience,NEF,Irbid Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,21952,1707,Irbid
-11041,Resilience,UNOPS,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.3]Storm water culverts,MUNICIPALITY,direct,1950000,1707,Irbid
-11049,Resilience,UNDP,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.4]Chicken Slaughterhouse,MUNICIPALITY,direct,325000,1707,Irbid
-11051,Resilience,CARE,Irbid Governorate,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,70000,1707,Irbid
-11056,Resilience,NRC,Irbid Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,3.00E+05,1707,Irbid
-11058,Resilience,ACF,Irbid Governorate,WASH[RES4.1]Ops Mngt,[RES4.1.1]Introduce work methods,WASH ,direct,50000,1707,Irbid
-11062,Resilience,OXFAM,Irbid Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,266666,1707,Irbid
-11068,Resilience,ACF,Irbid Governorate,WASH[RES1.1]Rehab Wells,[RES1.1.1]Rehab Existing wells,WASH ,Direct,50000,1707,Irbid
-11072,Resilience,WVI,Irbid Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1707,Irbid
-11073,Resilience,Intersos,Irbid Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,180000,1707,Irbid
-11078,Resilience,ILO,Irbid Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.2]Value Chain developed,FOOD/LIVELIHOOD,direct,5.00E+05,1707,Irbid
-11081,Resilience,LWF,Irbid Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.2]In-Service Training,EDUCATION,direct,80161,1707,Irbid
-11083,Resilience,UNOPS,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,5.00E+05,1707,Irbid
-11089,Resilience,NRC,Irbid Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.1]Community Multisector Prot,PROTECTION,direct,75000,1707,Irbid
-11096,Resilience,CARE,Irbid Governorate,PROT[RES1.1]SGBV for JOR,[RES1.1.2]Multi-sector for JOR,PROTECTION,direct,40000,1707,Irbid
-11099,Resilience,Intersos,Irbid Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,1.00E+05,1707,Irbid
-11109,Resilience,ACF,Irbid Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,85000,1707,Irbid
-11111,Resilience,UNICEF,Irbid Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1192828.2,1707,Irbid
-11117,Resilience,UNICEF,Irbid Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,119064.33,1707,Irbid
-11119,Resilience,UNOPS,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.2]Public Spaces est.,MUNICIPALITY,direct,1925000,1707,Irbid
-11121,Resilience,NRC,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,33974,1707,Irbid
-11129,Resilience,UNDP,Irbid Governorate,MUN[RES1.2]SWM,[RES1.2.5]Impact Study,MUNICIPALITY,direct,3.00E+05,1707,Irbid
-11134,Resilience,UNOPS,Irbid Governorate,TRAN[2.1] Border,[RES2.1.1]Build Border roads,TRANSPORT,direct,4.00E+06,1707,Irbid
-11135,Resilience,WVI,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1707,Irbid
-11138,Resilience,MercyCorps,Irbid Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,3.00E+05,1707,Irbid
-11140,Resilience,MercyCorps,Irbid Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,1150000,1707,Irbid
-11148,Resilience,ILO,Irbid Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,8.00E+05,1707,Irbid
-11151,Resilience,ACF,Irbid Governorate,WASH[RES1.6]WAJ O&D capacity,[RES1.6.1]WAJ O&D,WASH ,direct,50000,1707,Irbid
-11152,Resilience,WVI,Irbid Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,,43900,1707,Irbid
-11153,Resilience,NRC,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.2]WASH in Schools,EDUCATION,direct,1200000,1707,Irbid
-11154,Resilience,NEF,Irbid Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,64555,1707,Irbid
-11157,Resilience,NRC,Irbid Governorate,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,9887,1707,Irbid
-11158,Resilience,NRC,Irbid Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,9.00E+05,1707,Irbid
-11162,Resilience,MercyCorps,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1707,Irbid
-11168,Resilience,MercyCorps,Irbid Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.1]LED implement  LDPs,FOOD/LIVELIHOOD,direct,50000,1707,Irbid
-11171,Resilience,ILO,Irbid Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,1.00E+06,1707,Irbid
-11173,Resilience,UNOPS,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.5]New Solar Farm,MUNICIPALITY,direct,2500000,1707,Irbid
-11176,Resilience,MercyCorps,Irbid Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,50000,1707,Irbid
-11178,Resilience,UNOPS,Irbid Governorate,TRAN[2.2] Border,[RES2.2.1]Rehab. Border roads,TRANSPORT,direct,5.00E+06,1707,Irbid
-11183,Resilience,UNWOMEN,Irbid Governorate,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,512836.25,1707,Irbid
-11187,Resilience,NRC,Irbid Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.3]Legal Awareness,JUSTICE,indirect,20000,1707,Irbid
-11190,Resilience,MercyCorps,Irbid Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,325000,1707,Irbid
-11193,Resilience,NRC,Irbid Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.4]Boys/Girls Social Cohesion,EDUCATION,direct,350000,1707,Irbid
-11197,Resilience,ILO,Irbid Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,5.00E+05,1707,Irbid
-11198,Resilience,NRC,Irbid Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,direct,5.00E+05,1707,Irbid
-11201,Resilience,LWF,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.2]WASH in Schools,EDUCATION,direct,156082,1707,Irbid
-11203,Resilience,MercyCorps,Irbid Governorate,WASH[RES2.7]WW Kofor Raheb,[RES2.7.1]WW Kofor Rakeb & Beit Edes,WASH ,Direct,7.00E+05,1707,Irbid
-11207,Resilience,ACF,Irbid Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,680000,1707,Irbid
-11208,Resilience,UNOPS,Irbid Governorate,TRAN[2.3]Expand Road Networks,[RES2.3.2]Road Safety Standards,TRANSPORT,direct,5.00E+05,1707,Irbid
-11209,Resilience,UNFPA,Irbid Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,indirect,350000,1707,Irbid
-11211,Resilience,NEF,Irbid Governorate,PROT[RES1.2]Child Protection for JOR,[RES1.2.3]Families mobilized,PROTECTION,direct,11476,1707,Irbid
-11213,Resilience,MercyCorps,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1500000,1707,Irbid
-11217,Resilience,NRC,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,"[RES3.2.3]Playground, Libraries etc",EDUCATION,direct,4.00E+05,1707,Irbid
-11220,Resilience,NRC,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,165254,1708,JARASH
-11225,Resilience,WVI,Jarash Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1708,JARASH
-11226,Resilience,NRC,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,330508,1708,JARASH
-11229,Resilience,NRC,Jarash Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.1]Community Multisector Prot,PROTECTION,direct,37500,1708,JARASH
-11230,Resilience,UNICEF,Jarash Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1192828.2,1708,JARASH
-11232,Resilience,UNFPA,Jarash Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,indirect,250000,1708,JARASH
-11240,Resilience,MercyCorps,Jarash Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,50000,1708,JARASH
-11243,Resilience,NRC,Jarash Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.4]Govt Capacity,PROTECTION,,75000,1708,JARASH
-11244,Resilience,NRC,Jarash Governorate,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,1412,1708,JARASH
-11249,Resilience,MercyCorps,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1400000,1708,JARASH
-11252,Resilience,WVI,Jarash Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1708,JARASH
-11254,Resilience,WVI,Jarash Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,6460,1708,JARASH
-11256,Resilience,NRC,Jarash Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,3.00E+05,1708,JARASH
-11260,Resilience,NRC,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,4853,1708,JARASH
-11262,Resilience,WVI,Jarash Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1708,JARASH
-11263,Resilience,MercyCorps,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1708,JARASH
-11269,Resilience,UNICEF,Jarash Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,119064.33,1708,JARASH
-11274,Resilience,MercyCorps,Karak Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,direct,650000,1704,Karak
-11275,Resilience,AVSI,Karak Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1704,Karak
-11277,Resilience,NEF,Liwa al Badiyah ash Shamaliyah al Gharbiyah,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,64555,1711,MAFRAQ
-11280,Resilience,NEF,Liwa al Jamiah,PROT[RES1.2]Child Protection for JOR,[RES1.2.3]Families mobilized,PROTECTION,direct,114476,1705,AMMAN
-11286,Resilience,ACTED,Liwa ar Ramtha,WASH[RES2.2]Wastewater Irbid,[RES2.2.1]Expand WW in Irbid,WASH ,direct,301691,1707,Irbid
-11292,Resilience,NEF,Liwa Qasabah Al Hashmi Shamali,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,21952,1705,AMMAN
-11300,Resilience,UNESCO,Liwa Qasabah Ghawr Al Safi,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,440000,1704,Karak
-11301,Resilience,UNESCO,Liwa Qasabah Ghawr Al Safi,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,440000,1704,Karak
-11303,Resilience,ACTED,Liwa Qasabat al Mafraq,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,538714,1711,MAFRAQ
-11307,Resilience,ACTED,Liwa Qasabat al Mafraq,WASH[RES2.5]Wastewater Irbid,"[RES2.5.1]Expand WW in Mafraq, Jerash, Ajloun",WASH ,direct,301691,1711,MAFRAQ
-11308,Resilience,ACTED,Liwa Qasabat al Mafraq,WASH[RES3.1]WASH in Schools,[RES3.1.4]Hygiene materials,WASH ,,0,1711,MAFRAQ
-11309,Resilience,ACTED,Liwa Qasabat al Mafraq,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,269357,1711,MAFRAQ
-11310,Resilience,ACTED,Liwa Qasabat al Mafraq,MUN[RES2.1]Urban Service Delivery,[RES2.1.3]Improv. Capacity of Mun,MUNICIPALITY,,0,1711,MAFRAQ
-11314,Resilience,ACTED,Liwa Qasabat al Mafraq,WASH[RES3.1]WASH in Schools,[RES3.1.1]Toilets in 300 Schools,WASH ,direct,301691,1711,MAFRAQ
-11324,Resilience,DRC,Liwa Qasabat Amman,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,2.00E+05,1705,AMMAN
-11325,Resilience,DRC,Liwa Qasabat Amman,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,1.00E+05,1705,AMMAN
-11328,Resilience,ACTED,Liwa Qasabat Az Zarqa,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,269357,1712,Zarqa
-11331,Resilience,ACTED,Liwa Qasabat Az Zarqa,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,0,1712,Zarqa
-11335,Resilience,ACTED,Liwa Qasabat Irbid,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,1249450,1707,Irbid
-11339,Resilience,UNICEF,Maan Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,119064.33,1709,MAAN
-11340,Resilience,MercyCorps,Maan Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,direct,650000,1709,MAAN
-11341,Resilience,UNICEF,Maan Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1192828.2,1709,MAAN
-11345,Resilience,UNICEF,Madaba Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,119064.33,1710,Madaba
-11346,Resilience,UNICEF,Madaba Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1192828.2,1710,Madaba
-11348,Resilience,MercyCorps,Madaba Governorate,WASH[RES1.3]Reinforce Trans,[RES1.3.1]Constr.Pipeline/Reservoirs,WASH ,,1.00E+06,1710,Madaba
-11351,Resilience,AVSI,Madaba Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1710,Madaba
-11353,Resilience,ARDD-LA,Mafraq City,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,indirect,152581,1711,MAFRAQ
-11354,Resilience,UNESCO,Mafraq City,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,direct,1220472,1711,MAFRAQ
-11357,Resilience,ARDD-LA,Mafraq City,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.3]Studies and research,EDUCATION,indirect,152361,1711,MAFRAQ
-11364,Resilience,UNWOMEN,Mafraq Governorate,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,512836.25,1711,MAFRAQ
-11369,Resilience,ILO,Mafraq Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,8.00E+05,1711,MAFRAQ
-11371,Resilience,ILO,Mafraq Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,7.00E+05,1711,MAFRAQ
-11372,Resilience,MercyCorps,Mafraq Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,1150000,1711,MAFRAQ
-11373,Resilience,WVI,Mafraq Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1711,MAFRAQ
-11374,Resilience,MercyCorps,Mafraq Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,325000,1711,MAFRAQ
-11379,Resilience,UNICEF,Mafraq Governorate,WASH[RES2.6]WWTP Bergesh,[RES2.6.1]WWTP Bergesh,WASH ,Indirect,1058780,1711,MAFRAQ
-11380,Resilience,MercyCorps,Mafraq Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.2]Value Chain developed,FOOD/LIVELIHOOD,direct,325000,1711,MAFRAQ
-11382,Resilience,OXFAM,Mafraq Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,266666,1711,MAFRAQ
-11385,Resilience,MercyCorps,Mafraq Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1711,MAFRAQ
-11388,Resilience,ACF,Mafraq Governorate,WASH[RES4.1]Ops Mngt,[RES4.1.1]Introduce work methods,WASH ,direct,50000,1711,MAFRAQ
-11389,Resilience,ILO,Mafraq Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.4]Coops and Associations supported,FOOD/LIVELIHOOD,direct,7.00E+05,1711,MAFRAQ
-11390,Resilience,ACF,Mafraq Governorate,WASH[RES1.1]Rehab Wells,[RES1.1.1]Rehab Existing wells,WASH ,Direct,50000,1711,MAFRAQ
-11393,Resilience,CARE,Mafraq Governorate,PROT[RES1.1]SGBV for JOR,[RES1.1.2]Multi-sector for JOR,PROTECTION,direct,50000,1711,MAFRAQ
-11395,Resilience,WVI,Mafraq Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1711,MAFRAQ
-11396,Resilience,MercyCorps,Mafraq Governorate,WASH[RES2.6]WWTP Bergesh,[RES2.6.1]WWTP Bergesh,WASH ,Direct,2500000,1711,MAFRAQ
-11404,Resilience,ACF,Mafraq Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,250000,1711,MAFRAQ
-11410,Resilience,WVI,Mafraq Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,,6460,1711,MAFRAQ
-11418,Resilience,WVI,Mafraq Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1711,MAFRAQ
-11420,Resilience,CARE,Mafraq Governorate,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,87500,1711,MAFRAQ
-11421,Resilience,CARE,Mafraq Governorate,PROT[RES1.1]SGBV for JOR,[RES1.1.3]Capacity of Service Providers,PROTECTION,direct,175000,1711,MAFRAQ
-11422,Resilience,ACF,Mafraq Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,250000,1711,MAFRAQ
-11424,Resilience,UNFPA,Mafraq Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,indirect,250000,1711,MAFRAQ
-11425,Resilience,MercyCorps,Mafraq Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.1]LED implement  LDPs,FOOD/LIVELIHOOD,direct,50000,1711,MAFRAQ
-11433,Resilience,MercyCorps,Mafraq Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1400000,1711,MAFRAQ
-11435,Resilience,UNICEF,Mafraq Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,119064.33,1711,MAFRAQ
-11439,Resilience,UNICEF,Mafraq Governorate,WASH[RES3.1]WASH in Schools,[RES3.1.1]Toilets in 300 Schools,WASH ,indirect,131441,1711,MAFRAQ
-11442,Resilience,UNICEF,Mafraq Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1192828.2,1711,MAFRAQ
-11444,Resilience,AVSI,Mafraq Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1711,MAFRAQ
-11446,Resilience,ACF,Mafraq Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,5.00E+05,1711,MAFRAQ
-11448,Resilience,ACF,Mafraq Governorate,WASH[RES1.6]WAJ O&D capacity,[RES1.6.1]WAJ O&D,WASH ,direct,50000,1711,MAFRAQ
-11457,Resilience,UNICEF,Mafraq Governorate,WASH[RES2.5]Wastewater Irbid,"[RES2.5.1]Expand WW in Mafraq, Jerash, Ajloun",WASH ,indirect,4.00E+06,1711,MAFRAQ
-11459,Resilience,MercyCorps,Mafraq Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,50000,1711,MAFRAQ
-11461,Resilience,MercyCorps,Mafraq Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,3.00E+05,1711,MAFRAQ
-11463,Resilience,UNICEF,Mafraq Governorate,WASH[RES2.8]Sewage Transpt,[RES2.8.1]Constr Force Main,WASH ,indirect,5.00E+06,1711,MAFRAQ
-11464,Resilience,MercyCorps,Zarqa City,WASH[RES2.6]WWTP Bergesh,[RES2.6.1]WWTP Bergesh,WASH ,Direct,2500000,1712,Zarqa
-11468,Resilience,SCI,Zarqa City,PROT[RES1.2]Child Protection for JOR,[RES1.2.4]Comm. Based CP systems,PROTECTION,direct,2500000,1712,Zarqa
-11470,Resilience,OXFAM,Zarqa City,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1.00E+06,1712,Zarqa
-11474,Resilience,UNWOMEN,Zarqa Governorate,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,512836.25,1712,ZARQA
-11475,Resilience,MercyCorps,Zarqa Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1400000,1712,ZARQA
-11476,Resilience,NEF,Zarqa Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,872286,1712,ZARQA
-11479,Resilience,HI,Zarqa Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.2]Public Spaces est.,MUNICIPALITY,direct,150000,1712,ZARQA
-11480,Resilience,CARE,Zarqa Governorate,PROT[RES1.1]SGBV for JOR,[RES1.1.2]Multi-sector for JOR,PROTECTION,direct,50000,1712,ZARQA
-11481,Resilience,CARE,Zarqa Governorate,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,87500,1712,ZARQA
-11486,Resilience,OXFAM,Zarqa Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.1]National Legal Aid System,JUSTICE,,12000,1712,ZARQA
-11488,Resilience,WVI,Zarqa Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1712,ZARQA
-11490,Resilience,AVSI,Zarqa Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1712,ZARQA
-11492,Resilience,NEF,Zarqa Governorate,PROT[RES1.2]Child Protection for JOR,[RES1.2.3]Families mobilized,PROTECTION,direct,114476,1712,ZARQA
-11494,Resilience,CARE,Zarqa Governorate,PROT[RES1.1]SGBV for JOR,[RES1.1.3]Capacity of Service Providers,PROTECTION,direct,175000,1712,ZARQA
-11504,Resilience,WVI,Zarqa Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1712,ZARQA
-11512,Resilience,MercyCorps,Zarqa Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.2] Social Tensions Projects JOR,PROTECTION,direct,4.00E+05,1712,ZARQA
-11520,Resilience,WVI,Zarqa Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,6460,1712,ZARQA
-11522,Resilience,OXFAM,Zarqa Governorate,WASH[RES1.6]WAJ O&D capacity,[RES1.6.1]WAJ O&D,WASH ,direct,23205,1712,ZARQA
-11524,Resilience,UNFPA,Zarqa Governorate,PROT[RES1.3]Reduce Social Tensions JOR,[RES1.3.3]Youth Civic Engagement,PROTECTION,indirect,250000,1712,ZARQA
-11528,Resilience,MercyCorps,Zarqa Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1712,ZARQA
-11530,Resilience,HI,Zarqa Governorate,MUN[RES3.2]Mun. Systems,[RES3.2.4]CCGPs,MUNICIPALITY,direct,1.00E+05,1712,ZARQA
-11531,Resilience,UNICEF,Zarqa Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.3]Replace Tertiary  Distrb,WASH ,,1192828.2,1712,ZARQA
-11532,Resilience,NEF,Zarqa Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,64555,1712,ZARQA
-11533,Resilience,OXFAM,Zarqa Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.2]Legal Aid Services,JUSTICE,,36000,1712,ZARQA
-11534,Resilience,NEF,Zarqa Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,50000,1712,ZARQA
-11540,Resilience,WVI,Zarqa Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1712,ZARQA
-11547,Resilience,UNICEF,Zarqa Governorate,WASH[RES1.2]YWC Distribute Water,[RES1.2.1]Restrc. Transm. & Distribution,WASH ,,119064.33,1712,ZARQA
-11550,Resilience,OXFAM,Zarqa Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.5]ADR services,JUSTICE,,8000,1712,ZARQA
-11558,Resilience,OXFAM,Zarqa Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.3]Legal Awareness,JUSTICE,,15750,1712,ZARQA
-11561,Resilience,NEF,Zarqa Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,21952,1712,ZARQA
-11567,Resilience,MercyCorps,Zarqa Governorate,WASH[RES2.3]WWTP Zarqa,[RES2.3.1]WWTP Al Azraq,WASH ,direct,3920000,1712,ZARQA
+10108,Resilience,WVI,Ajlun Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1701,AJLOUN
+10114,Resilience,WVI,Ajlun Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,6460,1701,AJLOUN
+10119,Resilience,NRC,Ajlun Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,4853,1701,AJLOUN
+10121,Resilience,WVI,Ajlun Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1701,AJLOUN
+10123,Resilience,NRC,Ajlun Governorate,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,1412,1701,AJLOUN
+10124,Resilience,NRC,Ajlun Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,330508,1701,AJLOUN
+10129,Resilience,WVI,Ajlun Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1701,AJLOUN
+10131,Resilience,NRC,Ajlun Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,165254,1701,AJLOUN
+10133,Resilience,OXFAM,Al Balqa Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,266666,1702,Balqa
+10136,Resilience,OXFAM,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.1]National Legal Aid System,JUSTICE,direct,12000,1705,AMMAN
+10141,Resilience,MercyCorps,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1500000,1705,AMMAN
+10142,Resilience,WVI,Amman Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1705,AMMAN
+10145,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.1]National Legal Aid System,JUSTICE,direct,50000,1705,AMMAN
+10148,Resilience,SCI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,0,1705,AMMAN
+10149,Resilience,OXFAM,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.3]Legal Awareness,JUSTICE,direct,15750,1705,AMMAN
+10151,Resilience,NRC,Amman Governorate,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,1412,1705,AMMAN
+10152,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.5]ADR services,JUSTICE,direct,60000,1705,AMMAN
+10153,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.1]Capacity of MoJ/Courts,JUSTICE,direct,20000,1705,AMMAN
+10154,Resilience,NRC,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1322034,1705,AMMAN
+10165,Resilience,WVI,Amman Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,,6460,1705,AMMAN
+10168,Resilience,NRC,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,4853,1705,AMMAN
+10173,Resilience,SCI,Amman Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,0,1705,AMMAN
+10175,Resilience,OXFAM,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.2]Legal Aid Services,JUSTICE,,36000,1705,AMMAN
+10177,Resilience,WVI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1705,AMMAN
+10180,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.2]Capaciy of Supreme/Sharia courts,JUSTICE,direct,70000,1705,AMMAN
+10184,Resilience,NRC,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,165254,1705,AMMAN
+10186,Resilience,AVSI,Amman Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1705,AMMAN
+10193,Resilience,SCI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.4]Boys/Girls Social Cohesion,EDUCATION,direct,650000,1705,AMMAN
+10195,Resilience,SCI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.2]School Imrpv. Plan,EDUCATION,direct,565000,1705,AMMAN
+10198,Resilience,MercyCorps,Amman Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1705,AMMAN
+10199,Resilience,UNWOMEN,Amman Governorate,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,512836.25,1705,AMMAN
+10200,Resilience,WVI,Amman Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1705,AMMAN
+10201,Resilience,CARE,Amman Governorate,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,105000,1705,AMMAN
+10211,Resilience,NEF,Amman Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,64555,1705,AMMAN
+10215,Resilience,OXFAM,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.5]ADR services,JUSTICE,direct,80000,1705,AMMAN
+10217,Resilience,SCI,Amman Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.1]Code of Conduct,EDUCATION,direct,391000,1705,AMMAN
+10222,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.4]Enhanced info exchange,JUSTICE,direct,50000,1705,AMMAN
+10223,Resilience,UNWOMEN,Amman Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.2]Legal Aid Services,JUSTICE,direct,75000,1705,AMMAN
+10225,Resilience,AVSI,Aqaba Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1703,AL AQABAH
+10230,Resilience,CARE,Azraq City,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,70000,1712,Zarqa
+10233,Resilience,UNDP,Country Wide,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.1]Assessment of Impact on Soc.Prot,BASIC NEEDS,direct,150000,1,Country Wide Intervention
+10236,Resilience,UNDP,Country Wide,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.2]Expand NAF (JOR),BASIC NEEDS,direct,545951,1,Country Wide Intervention
+10239,Resilience,UNDP,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.2]Thermal Insulation,ENERGY,direct,750000,1,Country Wide Intervention
+10242,Resilience,UNOPS,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,350000,1,Country Wide Intervention
+10245,Resilience,UNDP,Country Wide,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,5824044,1,Country Wide Intervention
+10248,Resilience,UNICEF,Country Wide,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,indirect,3600000,1,Country Wide Intervention
+10249,Resilience,UNDP,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,170000,1,Country Wide Intervention
+10251,Resilience,UNDP,Country Wide,ENV[RES4.1]JRP X-cutting,[RES4.1.1]Mainstream ENV in JRP projects,ENVIRONMENT,direct,50000,1,Country Wide Intervention
+10254,Resilience,WVI,Country Wide,ENV[RES4.1]JRP X-cutting,[RES4.1.2]EIA procedures,ENVIRONMENT,direct,150000,1,Country Wide Intervention
+10257,Resilience,UNDP,Country Wide,ENV[RES4.1]JRP X-cutting,[RES4.1.2]EIA procedures,ENVIRONMENT,direct,150000,1,Country Wide Intervention
+10260,Resilience,UNICEF,Country Wide,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.1]OpenEMIS module expanded,EDUCATION,indirect,45360,1,Country Wide Intervention
+10262,Resilience,UNESCO,Country Wide,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.1]OpenEMIS module expanded,EDUCATION,direct,2.00E+05,1,Country Wide Intervention
+10265,Resilience,UNESCO,Country Wide,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.2]Ministry Plan/Mngt Capacity,EDUCATION,direct,3.00E+05,1,Country Wide Intervention
+10266,Resilience,RI,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.1]Cash for Work for JOR,FOOD/LIVELIHOOD,direct,3.00E+05,1,Country Wide Intervention
+10271,Resilience,UNICEF,Country Wide,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.3]Studies and research,EDUCATION,indirect,141750,1,Country Wide Intervention
+10273,Resilience,RI,Country Wide,EDU[RES1.2]Recognition of learning JOR,[RES1.2.2]Recognition of Post Basic,EDUCATION,direct,1.00E+05,1,Country Wide Intervention
+10277,Resilience,UNICEF,Country Wide,EDU[RES1.3]Access to Inclusive Education JOR,[RES1.3.1]Expand Higher Education,EDUCATION,direct,28350,1,Country Wide Intervention
+10280,Resilience,SCI,Country Wide,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,420000,1,Country Wide Intervention
+10286,Resilience,UNDP,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,5.00E+06,1,Country Wide Intervention
+10287,Resilience,UNDP,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.2]Value Chain developed,FOOD/LIVELIHOOD,direct,618260,1,Country Wide Intervention
+10289,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.2]Capaciy of Supreme/Sharia courts,JUSTICE,direct,380000,1,Country Wide Intervention
+10293,Resilience,UNDP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.3]Capacity fo Voc. Training Providers,FOOD/LIVELIHOOD,direct,428190,1,Country Wide Intervention
+10299,Resilience,UNDP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,1605435,1,Country Wide Intervention
+10302,Resilience,UNICEF,Country Wide,EDU[RES2.1]Teacher Training JOR,[RES2.1.2]In-Service Training,EDUCATION,indirect,0,1,Country Wide Intervention
+10305,Resilience,UNESCO,Country Wide,EDU[RES2.1]Teacher Training JOR,[RES2.1.2]In-Service Training,EDUCATION,indirect,480000,1,Country Wide Intervention
+10308,Resilience,UNICEF,Country Wide,EDU[RES2.1]Teacher Training JOR,[RES2.1.3]Leader Training,EDUCATION,indirect,283500,1,Country Wide Intervention
+10309,Resilience,UNDP,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.2]Formalize Informal sector,FOOD/LIVELIHOOD,direct,6.00E+05,1,Country Wide Intervention
+10315,Resilience,WarChildUK,Country Wide,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,50000,1,Country Wide Intervention
+10319,Resilience,UNICEF,Country Wide,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,indirect,1711206,1,Country Wide Intervention
+10322,Resilience,WVI,Country Wide,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.2]WASH in Schools,EDUCATION,direct,212799.26,1,Country Wide Intervention
+10324,Resilience,UNOPS,Country Wide,ENG[RES1.3]Electricity in Camps,[RES1.3.3]Elec Infrast. Upgraded in Host Comm,ENERGY,direct,5.00E+06,1,Country Wide Intervention
+10328,Resilience,UNICEF,Country Wide,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,indirect,0,1,Country Wide Intervention
+10330,Resilience,UNDP,Country Wide,ENV[RES1.1]Rehab Ecosystems,[RES1.1.2]Rehab plans developed,ENVIRONMENT,direct,0,1,Country Wide Intervention
+10334,Resilience,UNICEF,Country Wide,EDU[RES3.2]Formal Educ. for JOR,"[RES3.2.3]Playground, Libraries etc",EDUCATION,indirect,0,1,Country Wide Intervention
+10338,Resilience,RI,Country Wide,EDU[RES3.3]Alternt Edc for JOR,[RES3.3.1]Non-Formal Educ,EDUCATION,direct,0,1,Country Wide Intervention
+10342,Resilience,Questcope,Country Wide,EDU[RES3.3]Alternt Edc for JOR,[RES3.3.1]Non-Formal Educ,EDUCATION,direct,0,1,Country Wide Intervention
+10346,Resilience,Questcope,Country Wide,EDU[RES3.3]Alternt Edc for JOR,[RES3.3.1]Non-Formal Educ,EDUCATION,direct,0,1,Country Wide Intervention
+10350,Resilience,UNOPS,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.1]Apppliances promoted,ENERGY,direct,3.00E+06,1,Country Wide Intervention
+10354,Resilience,UNDP,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.1]Apppliances promoted,ENERGY,direct,5.00E+06,1,Country Wide Intervention
+10357,Resilience,UNOPS,Country Wide,ENG[RES1.1]Energy Efficiency,[RES1.1.2]Thermal Insulation,ENERGY,direct,450000,1,Country Wide Intervention
+10360,Resilience,UNDP,Country Wide,ENV[RES3.1]Air Quality,[RES3.1.1]Monitoring Network,ENVIRONMENT,direct,50000,1,Country Wide Intervention
+10363,Resilience,UNDP,Country Wide,ENV[RES3.1]Air Quality,[RES3.1.2]Assessment of Emitters,ENVIRONMENT,direct,250000,1,Country Wide Intervention
+10366,Resilience,UNDP,Country Wide,ENV[RES3.1]Air Quality,[RES3.1.3]Cleaner Prod. Approaches,ENVIRONMENT,direct,0,1,Country Wide Intervention
+10369,Resilience,WVI,Country Wide,ENV[RES4.1]JRP X-cutting,[RES4.1.1]Mainstream ENV in JRP projects,ENVIRONMENT,direct,50000,1,Country Wide Intervention
+10371,Resilience,RI,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.1]Demand-based business skills,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
+10376,Resilience,WFP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.1]Demand-based business skills,FOOD/LIVELIHOOD,indirect,4018311,1,Country Wide Intervention
+10381,Resilience,FAO,Country Wide,FOOD/LIV[1.3]Agric/Liv/FS programming,[RES1.3.1]Agr/Liv/Nat Resource programming im,FOOD/LIVELIHOOD,indirect,6.00E+05,1,Country Wide Intervention
+10383,Resilience,FAO,Country Wide,FOOD/LIV[1.3]Agric/Liv/FS programming,[RES1.3.2]DoS FS monitoring system,FOOD/LIVELIHOOD,indirect,1.00E+05,1,Country Wide Intervention
+10385,Resilience,FAO,Country Wide,FOOD/LIV[1.3]Agric/Liv/FS programming,[RES1.3.3]FS Strategy,FOOD/LIVELIHOOD,indirect,1.00E+05,1,Country Wide Intervention
+10388,Resilience,RI,Country Wide,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
+10391,Resilience,UNDP,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,3.00E+06,1,Country Wide Intervention
+10394,Resilience,UNOPS,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,2.00E+06,1,Country Wide Intervention
+10395,Resilience,UNFPA,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.3]Medical Equip/Supplies,HEALTH,indirect,2500000,1,Country Wide Intervention
+10396,Resilience,UNICEF,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.3]Medical Equip/Supplies,HEALTH,indirect,933000,1,Country Wide Intervention
+10402,Resilience,UNDP,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.1]LED implement  LDPs,FOOD/LIVELIHOOD,direct,366869,1,Country Wide Intervention
+10404,Resilience,UNDP,Country Wide,MUN[RES1.2]SWM,[RES1.2.1]Equipment purchased,MUNICIPALITY,direct,28500,1,Country Wide Intervention
+10405,Resilience,UNDP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,5417717,1,Country Wide Intervention
+10410,Resilience,UNOPS,Country Wide,MUN[RES1.2]SWM,[RES1.2.2]Capacity building progs.,MUNICIPALITY,direct,175000,1,Country Wide Intervention
+10417,Resilience,ILO,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.1]MoL capacity improved,FOOD/LIVELIHOOD,direct,6.00E+05,1,Country Wide Intervention
+10426,Resilience,UNDP,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+06,1,Country Wide Intervention
+10430,Resilience,UNDP,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.4]Coops and Associations supported,FOOD/LIVELIHOOD,direct,618260,1,Country Wide Intervention
+10432,Resilience,ILO,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.3]MoL Info Mngt system,FOOD/LIVELIHOOD,direct,6.00E+05,1,Country Wide Intervention
+10434,Resilience,UNOPS,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,2.00E+06,1,Country Wide Intervention
+10438,Resilience,UNDP,Country Wide,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,9131635,1,Country Wide Intervention
+10442,Resilience,UNDP,Country Wide,ENG[RES1.3]Electricity in Camps,[RES1.3.3]Elec Infrast. Upgraded in Host Comm,ENERGY,direct,7.00E+06,1,Country Wide Intervention
+10448,Resilience,UNDP,Country Wide,ENV[RES1.1]Rehab Ecosystems,[RES1.1.1]Study on Ecosystems,ENVIRONMENT,direct,3.00E+05,1,Country Wide Intervention
+10450,Resilience,FAO,Country Wide,FOOD/LIV[3.2]TAD,[RES3.2.1]TAD surveillance,FOOD/LIVELIHOOD,indirect,5.00E+05,1,Country Wide Intervention
+10452,Resilience,FAO,Country Wide,FOOD/LIV[3.2]TAD,[RES3.2.2]Animal Health,FOOD/LIVELIHOOD,indirect,1.00E+06,1,Country Wide Intervention
+10454,Resilience,UNDP,Country Wide,ENV[RES1.1]Rehab Ecosystems,[RES1.1.3]Capacities enhanced,ENVIRONMENT,direct,50000,1,Country Wide Intervention
+10457,Resilience,UNDP,Country Wide,ENV[RES1.1]Rehab Ecosystems,[RES1.1.4]Awareness programmes,ENVIRONMENT,direct,50000,1,Country Wide Intervention
+10459,Resilience,UNDP,Country Wide,ENV[RES1.2]Sust. Livelihoods,[RES1.2.1]Feasibility Assessment,ENVIRONMENT,direct,250000,1,Country Wide Intervention
+10463,Resilience,UNDP,Country Wide,ENV[RES1.2]Sust. Livelihoods,[RES1.2.2]Capacity of CBOs enhanced,ENVIRONMENT,direct,1.00E+06,1,Country Wide Intervention
+10466,Resilience,UNDP,Country Wide,ENV[RES2.1]Medical Waste,[RES2.1.1]MW practices assessed,ENVIRONMENT,direct,250000,1,Country Wide Intervention
+10469,Resilience,UNDP,Country Wide,ENV[RES2.1]Medical Waste,[RES2.1.2]MW Capacity improved,ENVIRONMENT,direct,50000,1,Country Wide Intervention
+10472,Resilience,UNDP,Country Wide,ENV[RES2.1]Medical Waste,[RES2.1.3]Local MW mngt plans,ENVIRONMENT,direct,50000,1,Country Wide Intervention
+10474,Resilience,UNDP,Country Wide,ENV[RES2.2]Swaqa Dumping Site,[RES2.2.1]Master upgrading plan,ENVIRONMENT,direct,180000,1,Country Wide Intervention
+10478,Resilience,UNDP,Country Wide,ENV[RES2.2]Swaqa Dumping Site,[RES2.2.2]Mech.for cleaning up site,ENVIRONMENT,direct,0,1,Country Wide Intervention
+10479,Resilience,UNDP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.4]Social Cohesion for JOR,FOOD/LIVELIHOOD,direct,180000,1,Country Wide Intervention
+10487,Resilience,UNDP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.1]Demand-based business skills,FOOD/LIVELIHOOD,direct,5466927,1,Country Wide Intervention
+10493,Resilience,UNICEF,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.4]Reprod. Health,HEALTH,,150000,1,Country Wide Intervention
+10495,Resilience,IMC,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.5]Mental Health,HEALTH,direct,1500000,1,Country Wide Intervention
+10497,Resilience,WHO,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.5]Mental Health,HEALTH,direct,1.00E+05,1,Country Wide Intervention
+10499,Resilience,UNICEF,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.5]Mental Health,HEALTH,indirect,142000,1,Country Wide Intervention
+10501,Resilience,WFP,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,indirect,2678875,1,Country Wide Intervention
+10506,Resilience,RI,Country Wide,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
+10509,Resilience,WHO,Country Wide,HLTH[RES3.1]Community Interventions,[RES3.1.2]Comm Rehab services,HEALTH,direct,75000,1,Country Wide Intervention
+10511,Resilience,UNDP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.1]Cash for Work for JOR,FOOD/LIVELIHOOD,direct,1524718,1,Country Wide Intervention
+10514,Resilience,WHO,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.2]Human resources strengthened,HEALTH,direct,150000,1,Country Wide Intervention
+10520,Resilience,UNOPS,Country Wide,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,3.00E+06,1,Country Wide Intervention
+10521,Resilience,UNFPA,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.4]HIS upgraded,HEALTH,indirect,1.00E+05,1,Country Wide Intervention
+10523,Resilience,UNICEF,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.4]HIS upgraded,HEALTH,indirect,2007000,1,Country Wide Intervention
+10528,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.1]Capacity of MoJ/Courts,JUSTICE,direct,5980000,1,Country Wide Intervention
+10532,Resilience,UNDP,Country Wide,MUN[RES2.2]LDU linkages,[RES2.2.2]Mun LED plans,MUNICIPALITY,direct,1.00E+06,1,Country Wide Intervention
+10537,Resilience,UNICEF,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.2]Capaciy of Supreme/Sharia courts,JUSTICE,indirect,50000,1,Country Wide Intervention
+10538,Resilience,RI,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.3]Socio-Econ Infrastructure,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
+10542,Resilience,UNDP,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.1]MoL capacity improved,FOOD/LIVELIHOOD,direct,1.00E+06,1,Country Wide Intervention
+10547,Resilience,ILO,Country Wide,FOOD/LIV[2.3]Labor Market Governance,[RES2.3.2]Formalize Informal sector,FOOD/LIVELIHOOD,direct,2.00E+06,1,Country Wide Intervention
+10556,Resilience,WHO,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.1]NCDs,HEALTH,direct,5.00E+05,1,Country Wide Intervention
+10563,Resilience,RI,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,2.00E+05,1,Country Wide Intervention
+10565,Resilience,IOM,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.3]Comm diseases,HEALTH,direct,312500,1,Country Wide Intervention
+10568,Resilience,FAO,Country Wide,FOOD/LIV[3.1]Farm Households,[RES3.1.2]Increase Capacity,FOOD/LIVELIHOOD,indirect,1.00E+06,1,Country Wide Intervention
+10572,Resilience,UNDP,Country Wide,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,3065852,1,Country Wide Intervention
+10575,Resilience,WFP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,indirect,5022889,1,Country Wide Intervention
+10581,Resilience,FAO,Country Wide,FOOD/LIV[3.3]Agric Tech,[RES3.3.2]Increase capacity of MoA,FOOD/LIVELIHOOD,indirect,5.00E+05,1,Country Wide Intervention
+10584,Resilience,UNDP,Country Wide,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,5672889,1,Country Wide Intervention
+10590,Resilience,FAO,Country Wide,FOOD/LIV[3.4]Restoring Pastoral Liv.,[RES3.4.1]Harvesting/Range Mngt,FOOD/LIVELIHOOD,indirect,3.00E+05,1,Country Wide Intervention
+10592,Resilience,UNDP,Country Wide,FOOD/LIV[3.4]Restoring Pastoral Liv.,[RES3.4.2]Increased animal wealth,FOOD/LIVELIHOOD,direct,150000,1,Country Wide Intervention
+10594,Resilience,FAO,Country Wide,FOOD/LIV[3.4]Restoring Pastoral Liv.,[RES3.4.2]Increased animal wealth,FOOD/LIVELIHOOD,indirect,3.00E+05,1,Country Wide Intervention
+10596,Resilience,WVI,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.4]Coops and Associations supported,FOOD/LIVELIHOOD,direct,48820,1,Country Wide Intervention
+10598,Resilience,UNICEF,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.2]EPIs,HEALTH,indirect,865000,1,Country Wide Intervention
+10600,Resilience,WHO,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.2]EPIs,HEALTH,direct,1.00E+05,1,Country Wide Intervention
+10602,Resilience,IOM,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.2]EPIs,HEALTH,direct,650000,1,Country Wide Intervention
+10605,Resilience,UNDP,Country Wide,FOOD/LIV[3.1]Farm Households,[RES3.1.2]Increase Capacity,FOOD/LIVELIHOOD,direct,5.00E+05,1,Country Wide Intervention
+10607,Resilience,WHO,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.3]Comm diseases,HEALTH,direct,25000,1,Country Wide Intervention
+10610,Resilience,UNDP,Country Wide,JUS[RES2.2]Improved access to legal services,[RES2.2.1]National Legal Aid System,JUSTICE,direct,226000,1,Country Wide Intervention
+10612,Resilience,UNFPA,Country Wide,HLTH[RES1.1]Primary Health Care,[RES1.1.4]Reprod. Health,HEALTH,indirect,1200000,1,Country Wide Intervention
+10614,Resilience,UNOPS,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.1]Roads maintained,MUNICIPALITY,direct,4700000,1,Country Wide Intervention
+10617,Resilience,UNDP,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.2]Public Spaces est.,MUNICIPALITY,direct,1925000,1,Country Wide Intervention
+10623,Resilience,UNICEF,Country Wide,HLTH[RES2.1]2ndary / Tertiary,[RES2.1.5]Comprehensive Women,HEALTH,indirect,385000,1,Country Wide Intervention
+10625,Resilience,UNFPA,Country Wide,HLTH[RES2.1]2ndary / Tertiary,[RES2.1.5]Comprehensive Women,HEALTH,indirect,1500000,1,Country Wide Intervention
+10634,Resilience,UNDP,Country Wide,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.3]MSME Coordination,FOOD/LIVELIHOOD,direct,375308,1,Country Wide Intervention
+10639,Resilience,UNDP,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.5]New Solar Farm,MUNICIPALITY,direct,2500000,1,Country Wide Intervention
+10640,Resilience,WHO,Country Wide,HLTH[RES4.1]Nat.Health System Capacity,[RES4.1.4]HIS upgraded,HEALTH,direct,5.00E+05,1,Country Wide Intervention
+10649,Resilience,UNDP,Country Wide,MUN[RES1.2]SWM,[RES1.2.2]Capacity building progs.,MUNICIPALITY,direct,175000,1,Country Wide Intervention
+10653,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.3]Capacity of Judicial Council,JUSTICE,direct,250000,1,Country Wide Intervention
+10654,Resilience,UNDP,Country Wide,MUN[RES1.2]SWM,[RES1.2.4]Waster segregation pilots,MUNICIPALITY,direct,7.00E+05,1,Country Wide Intervention
+10657,Resilience,UNOPS,Country Wide,MUN[RES1.2]SWM,[RES1.2.3]SW treatment cells,MUNICIPALITY,direct,1.50E+07,1,Country Wide Intervention
+10658,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.4]Enhanced info exchange,JUSTICE,direct,150000,1,Country Wide Intervention
+10659,Resilience,UNDP,Country Wide,JUS[RES2.2]Improved access to legal services,[RES2.2.2]Legal Aid Services,JUSTICE,direct,5.00E+05,1,Country Wide Intervention
+10662,Resilience,UNICEF,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.3]Capacity of Judicial Council,JUSTICE,indirect,50000,1,Country Wide Intervention
+10664,Resilience,UNDP,Country Wide,FOOD/LIV[2.5]LED and PPPs,[RES2.5.3]Socio-Econ Infrastructure,FOOD/LIVELIHOOD,direct,5.00E+05,1,Country Wide Intervention
+10666,Resilience,UNHABITAT,Country Wide,MUN[RES2.1]Urban Service Delivery,[RES2.1.2]Rapid city profiles,MUNICIPALITY,direct,707628.5,1,Country Wide Intervention
+10671,Resilience,UNOPS,Country Wide,MUN[RES1.2]SWM,[RES1.2.1]Equipment purchased,MUNICIPALITY,direct,28500,1,Country Wide Intervention
+10672,Resilience,UNDP,Country Wide,MUN[RES3.1]Local Public Sector Services,[RES3.1.4]Legal Frmwk for investment,MUNICIPALITY,direct,2.00E+05,1,Country Wide Intervention
+10676,Resilience,UNHABITAT,Country Wide,MUN[RES2.1]Urban Service Delivery,[RES2.1.1]Urban information,MUNICIPALITY,direct,150000,1,Country Wide Intervention
+10677,Resilience,UNDP,Country Wide,MUN[RES3.2]Mun. Systems,[RES3.2.1]Capacity Assessments,MUNICIPALITY,direct,8.00E+05,1,Country Wide Intervention
+10681,Resilience,UNDP,Country Wide,FOOD/LIV[3.4]Restoring Pastoral Liv.,[RES3.4.1]Harvesting/Range Mngt,FOOD/LIVELIHOOD,direct,150000,1,Country Wide Intervention
+10682,Resilience,UNDP,Country Wide,JUS[RES2.1]Efficiency of Justice services,[RES2.1.5]ADR services,JUSTICE,direct,52000,1,Country Wide Intervention
+10683,Resilience,FAO,Country Wide,FOOD/LIV[3.1]Farm Households,[RES3.1.1]New technologies,FOOD/LIVELIHOOD,indirect,1.00E+06,1,Country Wide Intervention
+10685,Resilience,FAO,Country Wide,FOOD/LIV[3.3]Agric Tech,[RES3.3.1]Climate-Smart Tech,FOOD/LIVELIHOOD,indirect,1300000,1,Country Wide Intervention
+10691,Resilience,UNDP,Country Wide,MUN[RES2.2]LDU linkages,[RES2.2.1]Gov. Dvpt Plans updated,MUNICIPALITY,direct,1400000,1,Country Wide Intervention
+10692,Resilience,UNDP,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.1]Roads maintained,MUNICIPALITY,direct,4650000,1,Country Wide Intervention
+10695,Resilience,UNDP,Country Wide,MUN[RES3.1]Local Public Sector Services,[RES3.1.3]SOPs for core functions,MUNICIPALITY,direct,151300,1,Country Wide Intervention
+10696,Resilience,UNDP,Country Wide,FOOD/LIV[3.2]TAD,[RES3.2.2]Animal Health,FOOD/LIVELIHOOD,direct,1.00E+06,1,Country Wide Intervention
+10697,Resilience,UNDP,Country Wide,JUS[RES2.2]Improved access to legal services,[RES2.2.3]Legal Awareness,JUSTICE,direct,2.00E+05,1,Country Wide Intervention
+10702,Resilience,UNDP,Country Wide,MUN[RES3.1]Local Public Sector Services,[RES3.1.1]Review LG response,MUNICIPALITY,direct,847000,1,Country Wide Intervention
+10705,Resilience,UNDP,Country Wide,MUN[RES1.1]Non-SW delivery,[RES1.1.3]Storm water culverts,MUNICIPALITY,direct,1950000,1,Country Wide Intervention
+10707,Resilience,UNDP,Country Wide,MUN[RES3.1]Local Public Sector Services,[RES3.1.2]Assmt. Urban Planning,MUNICIPALITY,direct,1.00E+05,1,Country Wide Intervention
+10711,Resilience,UNDP,Country Wide,MUN[RES2.2]LDU linkages,[RES2.2.3]Mun LDU staff trained,MUNICIPALITY,direct,1564200,1,Country Wide Intervention
+10722,Resilience,UNFPA,Country Wide,HLTH[RES3.1]Community Interventions,[RES3.1.1]Comm Health awareness,HEALTH,indirect,150000,1,Country Wide Intervention
+10724,Resilience,UNHABITAT,Country Wide,MUN[RES2.1]Urban Service Delivery,[RES2.1.3]Comm Infrast Services,MUNICIPALITY,direct,3.00E+05,1,Country Wide Intervention
+10727,Resilience,UNDP,Country Wide,MUN[RES2.2]LDU linkages,[RES2.2.4]Vert/Horiz Accountability,MUNICIPALITY,direct,347000,1,Country Wide Intervention
+10730,Resilience,UNDP,Country Wide,MUN[RES3.2]Mun. Systems,[RES3.2.2]Computerized mngt sys.,MUNICIPALITY,direct,3550000,1,Country Wide Intervention
+10735,Resilience,UNHABITAT,Country Wide,MUN[RES2.1]Urban Service Delivery,[RES2.1.3]Improv. Capacity of Mun,MUNICIPALITY,,1.00E+05,1,Country Wide Intervention
+10738,Resilience,WHO,Country Wide,HLTH[RES3.1]Community Interventions,[RES3.1.3]Comm Services Elderly,HEALTH,direct,15000,1,Country Wide Intervention
+10744,Resilience,UNDP,Country Wide,MUN[RES1.2]SWM,[RES1.2.3]SW treatment cells,MUNICIPALITY,direct,1.50E+07,1,Country Wide Intervention
+10749,Resilience,DRC,Irbid City,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,5.00E+05,1707,Irbid
+10751,Resilience,DRC,Irbid City,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,2.00E+05,1707,Irbid
+10754,Resilience,NRC,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1322034,1707,Irbid
+10755,Resilience,UNOPS,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.3]Storm water culverts,MUNICIPALITY,direct,1950000,1707,Irbid
+10758,Resilience,NEF,Irbid Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,21952,1707,Irbid
+10764,Resilience,MercyCorps,Irbid Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.2]Value Chain developed,FOOD/LIVELIHOOD,direct,325000,1707,Irbid
+10771,Resilience,NRC,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,5400000,1707,Irbid
+10775,Resilience,NRC,Irbid Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,3.00E+05,1707,Irbid
+10776,Resilience,NRC,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.2]WASH in Schools,EDUCATION,direct,1200000,1707,Irbid
+10778,Resilience,WVI,Irbid Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,6460,1707,Irbid
+10780,Resilience,NRC,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,33974,1707,Irbid
+10781,Resilience,LWF,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.2]WASH in Schools,EDUCATION,direct,156082,1707,Irbid
+10784,Resilience,UNOPS,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,5.00E+05,1707,Irbid
+10787,Resilience,CARE,Irbid Governorate,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,70000,1707,Irbid
+10789,Resilience,NRC,Irbid Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.4]Boys/Girls Social Cohesion,EDUCATION,direct,350000,1707,Irbid
+10790,Resilience,NRC,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,1156780,1707,Irbid
+10794,Resilience,UNOPS,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.2]Public Spaces est.,MUNICIPALITY,direct,1925000,1707,Irbid
+10796,Resilience,LWF,Irbid Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.2]In-Service Training,EDUCATION,direct,80161,1707,Irbid
+10808,Resilience,UNOPS,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.5]New Solar Farm,MUNICIPALITY,direct,2500000,1707,Irbid
+10811,Resilience,ILO,Irbid Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,8.00E+05,1707,Irbid
+10815,Resilience,NRC,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,"[RES3.2.3]Playground, Libraries etc",EDUCATION,direct,4.00E+05,1707,Irbid
+10821,Resilience,ILO,Irbid Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.2]Value Chain developed,FOOD/LIVELIHOOD,direct,5.00E+05,1707,Irbid
+10824,Resilience,WVI,Irbid Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,,43900,1707,Irbid
+10828,Resilience,LWF,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,624159,1707,Irbid
+10839,Resilience,UNOPS,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.4]Chicken Slaughterhouse,MUNICIPALITY,direct,325000,1707,Irbid
+10842,Resilience,MercyCorps,Irbid Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.1]LED implement  LDPs,FOOD/LIVELIHOOD,direct,50000,1707,Irbid
+10844,Resilience,OXFAM,Irbid Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,266666,1707,Irbid
+10846,Resilience,NRC,Irbid Governorate,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,9887,1707,Irbid
+10848,Resilience,NRC,Irbid Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.3]Legal Awareness,JUSTICE,indirect,20000,1707,Irbid
+10849,Resilience,WVI,Irbid Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1707,Irbid
+10852,Resilience,MercyCorps,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1500000,1707,Irbid
+10854,Resilience,WVI,Irbid Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1707,Irbid
+10855,Resilience,ILO,Irbid Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,1.00E+06,1707,Irbid
+10860,Resilience,NEF,Irbid Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,64555,1707,Irbid
+10862,Resilience,UNDP,Irbid Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.4]Chicken Slaughterhouse,MUNICIPALITY,direct,325000,1707,Irbid
+10867,Resilience,UNWOMEN,Irbid Governorate,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,512836.25,1707,Irbid
+10868,Resilience,MercyCorps,Irbid Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1707,Irbid
+10869,Resilience,MercyCorps,Irbid Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,3.00E+05,1707,Irbid
+10871,Resilience,MercyCorps,Irbid Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,325000,1707,Irbid
+10882,Resilience,ILO,Irbid Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,5.00E+05,1707,Irbid
+10883,Resilience,UNDP,Irbid Governorate,MUN[RES1.2]SWM,[RES1.2.5]Impact Study,MUNICIPALITY,direct,3.00E+05,1707,Irbid
+10887,Resilience,NRC,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,165254,1708,JARASH
+10888,Resilience,WVI,Jarash Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,6460,1708,JARASH
+10892,Resilience,NRC,Jarash Governorate,ENG[RES1.1]Energy Efficiency,[RES1.1.3]Awarenesss events,ENERGY,direct,1412,1708,JARASH
+10897,Resilience,MercyCorps,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1708,JARASH
+10900,Resilience,WVI,Jarash Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1708,JARASH
+10903,Resilience,WVI,Jarash Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1708,JARASH
+10906,Resilience,NRC,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.1]LED Lights,ENERGY,direct,4853,1708,JARASH
+10907,Resilience,WVI,Jarash Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1708,JARASH
+10909,Resilience,NRC,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,330508,1708,JARASH
+10912,Resilience,MercyCorps,Jarash Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1400000,1708,JARASH
+10914,Resilience,AVSI,Karak Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1704,Karak
+10920,Resilience,NEF,Liwa al Badiyah ash Shamaliyah al Gharbiyah,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,64555,1711,MAFRAQ
+10921,Resilience,NEF,Liwa Qasabah Al Hashmi Shamali,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,21952,1705,AMMAN
+10931,Resilience,UNESCO,Liwa Qasabah Ghawr Al Safi,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,440000,1704,Karak
+10932,Resilience,UNESCO,Liwa Qasabah Ghawr Al Safi,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,440000,1704,Karak
+10935,Resilience,ACTED,Liwa Qasabat al Mafraq,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,538714,1711,MAFRAQ
+10938,Resilience,ACTED,Liwa Qasabat al Mafraq,MUN[RES2.1]Urban Service Delivery,[RES2.1.3]Improv. Capacity of Mun,MUNICIPALITY,,0,1711,MAFRAQ
+10942,Resilience,DRC,Liwa Qasabat Amman,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,1.00E+05,1705,AMMAN
+10943,Resilience,DRC,Liwa Qasabat Amman,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,2.00E+05,1705,AMMAN
+10950,Resilience,ACTED,Liwa Qasabat Az Zarqa,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,0,1712,Zarqa
+10956,Resilience,ACTED,Liwa Qasabat Irbid,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,1249450,1707,Irbid
+10958,Resilience,AVSI,Madaba Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1710,Madaba
+10962,Resilience,ARDD-LA,Mafraq City,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,indirect,152581,1711,MAFRAQ
+10964,Resilience,ARDD-LA,Mafraq City,"EDU[RES1.1]MoE Advocacy, Resource, Mngt Capacity",[RES1.1.3]Studies and research,EDUCATION,indirect,152361,1711,MAFRAQ
+10967,Resilience,ILO,Mafraq Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,8.00E+05,1711,MAFRAQ
+10968,Resilience,MercyCorps,Mafraq Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.1]LED implement  LDPs,FOOD/LIVELIHOOD,direct,50000,1711,MAFRAQ
+10969,Resilience,MercyCorps,Mafraq Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1711,MAFRAQ
+10977,Resilience,OXFAM,Mafraq Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,266666,1711,MAFRAQ
+10979,Resilience,ILO,Mafraq Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,7.00E+05,1711,MAFRAQ
+10981,Resilience,UNWOMEN,Mafraq Governorate,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,512836.25,1711,MAFRAQ
+10987,Resilience,MercyCorps,Mafraq Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.2]Value Chain developed,FOOD/LIVELIHOOD,direct,325000,1711,MAFRAQ
+10988,Resilience,MercyCorps,Mafraq Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.2]MSME developmt support,FOOD/LIVELIHOOD,direct,325000,1711,MAFRAQ
+10992,Resilience,WVI,Mafraq Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1711,MAFRAQ
+10995,Resilience,WVI,Mafraq Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1711,MAFRAQ
+10999,Resilience,WVI,Mafraq Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1711,MAFRAQ
+11003,Resilience,AVSI,Mafraq Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1711,MAFRAQ
+11005,Resilience,WVI,Mafraq Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,,6460,1711,MAFRAQ
+11012,Resilience,MercyCorps,Mafraq Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1400000,1711,MAFRAQ
+11018,Resilience,CARE,Mafraq Governorate,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,87500,1711,MAFRAQ
+11020,Resilience,MercyCorps,Mafraq Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.3]Short-Term Emplymt  for JOR,FOOD/LIVELIHOOD,direct,3.00E+05,1711,MAFRAQ
+11021,Resilience,ILO,Mafraq Governorate,FOOD/LIV[2.5]LED and PPPs,[RES2.5.4]Coops and Associations supported,FOOD/LIVELIHOOD,direct,7.00E+05,1711,MAFRAQ
+11023,Resilience,HI,Zarqa Governorate,MUN[RES1.1]Non-SW delivery,[RES1.1.2]Public Spaces est.,MUNICIPALITY,direct,150000,1712,ZARQA
+11027,Resilience,NEF,Zarqa Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,872286,1712,ZARQA
+11029,Resilience,MercyCorps,Zarqa Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.2]PV panel systems,ENERGY,direct,1400000,1712,ZARQA
+11031,Resilience,OXFAM,Zarqa Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.1]National Legal Aid System,JUSTICE,,12000,1712,ZARQA
+11036,Resilience,CARE,Zarqa Governorate,"BN[RES2.1]Expand NAF, MOSD, ZAKAT, cash and in-kind",RES[2.1.3]Basic Needs/Zakat for JOR,BASIC NEEDS,direct,87500,1712,ZARQA
+11038,Resilience,AVSI,Zarqa Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.1]Induction Training,EDUCATION,direct,480,1712,ZARQA
+11042,Resilience,UNWOMEN,Zarqa Governorate,FOOD/LIV[2.2]Perm. Emplymt for JOR,[RES2.2.2]Job Matching/Career Guidance,FOOD/LIVELIHOOD,direct,512836.25,1712,ZARQA
+11043,Resilience,WVI,Zarqa Governorate,"EDU[RES2.2]Safe, Violence-Free, Learning for JOR",[RES2.2.3]Engage Parents etc,EDUCATION,direct,24569,1712,ZARQA
+11046,Resilience,WVI,Zarqa Governorate,EDU[RES3.1]KG for JOR,[RES3.1.1]KG teachers trained on ECE,EDUCATION,direct,6460,1712,ZARQA
+11048,Resilience,NEF,Zarqa Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,,50000,1712,ZARQA
+11049,Resilience,OXFAM,Zarqa Governorate,JUS[RES2.1]Efficiency of Justice services,[RES2.1.5]ADR services,JUSTICE,,8000,1712,ZARQA
+11051,Resilience,WVI,Zarqa Governorate,EDU[RES3.2]Formal Educ. for JOR,[RES3.2.1]Constr. Schools,EDUCATION,direct,304768,1712,ZARQA
+11054,Resilience,NEF,Zarqa Governorate,FOOD/LIV[2.1]Short-Term Emplymt for JOR,[RES2.1.2]Skills Training for JOR,FOOD/LIVELIHOOD,direct,21952,1712,ZARQA
+11058,Resilience,OXFAM,Zarqa Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.2]Legal Aid Services,JUSTICE,,36000,1712,ZARQA
+11067,Resilience,OXFAM,Zarqa Governorate,JUS[RES2.2]Improved access to legal services,[RES2.2.3]Legal Awareness,JUSTICE,,15750,1712,ZARQA
+11068,Resilience,NEF,Zarqa Governorate,FOOD/LIV[2.4]MSMEs for JOR,[RES2.4.1]Microbusiness start up,FOOD/LIVELIHOOD,direct,64555,1712,ZARQA
+11075,Resilience,WVI,Zarqa Governorate,EDU[RES2.1]Teacher Training JOR,[RES2.1.4]Community Training,EDUCATION,direct,48820,1712,ZARQA
+11081,Resilience,MercyCorps,Zarqa Governorate,ENG[RES1.2]RE&EE Solutions,[RES1.2.3]Solar Water heaters,ENERGY,direct,4.00E+05,1712,ZARQA
